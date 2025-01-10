@@ -23,7 +23,6 @@ https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga
 
 
 下面是加上加速地址，可以直接使用：   
-https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/fm.pnga   
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga    
 https://ghgo.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga      
 
@@ -42,7 +41,6 @@ https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga
 
 
 下面是加上加速地址，可以直接使用：   
-https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/fty.pnga   
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga    
 https://ghgo.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga      
 
@@ -61,7 +59,6 @@ https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga
 
 
 下面是加上加速地址，可以直接使用：   
-https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/og.pnga   
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga    
 https://ghgo.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xm.pnga      
 
@@ -81,7 +78,6 @@ https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xm.pnga
 
 
 下面是加上加速地址，可以直接使用：   
-https://cdn.jsdelivr.net/gh/jixiejishu/zytzx@main/xm.pnga   
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xm.pnga    
 https://ghgo.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xm.pnga      
 
