@@ -771,147 +771,28 @@
 
 //带有加速
       {
-            "key": "应用加速codeberg",
-            "name": "🏬应用加速codeberg(仅影视_Fongmi)",
+            "key": "应用已加速",
+            "name": "🏬应用已加速codeberg",
             "type": 3,
             "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/jars/应用已加速.png"
-        },
-      {
-            "key": "应用加速gitlab",
-            "name": "🏬应用加速gitlab(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://gitlab.com/jixiejishu/zyt/-/raw/main/jars/应用已加速.png"
-        },
-      {
-            "key": "应用加速github",
-            "name": "🏬应用加速github(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://raw.kkgithub.com/jixiejishu/zyt/main/jars/应用已加速.png"
-        },
-      {
-            "key": "应用加速ghp.ci代理",
-            "name": "🏬应用加速ghp.ci代理(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/main/jars/应用已加速.png"
-        },
-      {
-            "key": "应用加速欧歌代理",
-            "name": "🏬应用加速欧歌代理(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/main/jars/应用已加速.png"
-        },
-      {
-            "key": "应用加速凯速",
-            "name": "🏬应用加速凯速(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://d.kstore.dev/download/7731/zyt/jars/应用已加速.png"
-        },
-      {
-            "key": "应用加速gitee",
-            "name": "🏬应用加速gitee(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://gitee.com/jixiejishu/zyt/raw/main/jars/应用已加速.png"
+            "ext": "./jars/应用已加速.png"
         },
 
 //不带加速
       {
-            "key": "应用codeberg",
-            "name": "🏬应用codeberg(仅影视_Fongmi)",
+            "key": "应用",
+            "name": "🏬应用(仅影视_Fongmi)",
             "type": 3,
             "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/jars/应用.png"
+            "ext": "./jars/应用.png"
         },
-      {
-            "key": "应用gitlab",
-            "name": "🏬应用gitlab(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://gitlab.com/jixiejishu/zyt/-/raw/main/jars/应用.png"
-        },
-      {
-            "key": "应用github",
-            "name": "🏬应用github(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://raw.kkgithub.com/jixiejishu/zyt/main/jars/应用.png"
-        },
-      {
-            "key": "应用ghp.ci代理",
-            "name": "🏬应用ghp.ci代理(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/main/jars/应用.png"
-        },
-      {
-            "key": "应用欧歌代理",
-            "name": "🏬应用欧歌代理(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/main/jars/应用.png"
-        },
-      {
-            "key": "应用凯速",
-            "name": "🏬应用凯速(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://d.kstore.dev/download/7731/zyt/jars/应用.png"
-        },
-      {
-            "key": "应用gitee",
-            "name": "🏬应用gitee(仅影视_Fongmi)",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://gitee.com/jixiejishu/zyt/raw/main/jars/应用.png"
-        },
+
 
 //9.og欧歌家庭
         {
