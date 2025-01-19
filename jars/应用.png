@@ -1,21 +1,21 @@
-//应用商店已加速
+//应用商店
 [
 {"name": "原版影视（fongmi,比公众号慢）","list": [
-{"name": "py64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
-{"name": "py32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
-{"name": "ja64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
-{"name": "ja32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
-{"name": "手机p64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
-{"name": "手机p32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
-{"name": "手机j64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
-{"name": "手机j32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"}
+{"name": "py64位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
+{"name": "py32位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
+{"name": "ja64位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
+{"name": "ja32位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
+{"name": "手机p64位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
+{"name": "手机p32位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
+{"name": "手机j64位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
+{"name": "手机j32位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"}
 ]},
 {"name": "常用资料，使用前阅读","list": [
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/说明.png","version": "  "},
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/codeberg.png","version": "  "},
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/github.png","version": "  "},
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/腾讯.png","version": "  "},
-{"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/金山.png","version": "  "},
+{"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/金山.png","version": "  "},
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/电视机.png","version": "  "},
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/机顶盒.png","version": "  "},
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/手机.png","version": "  "},
@@ -27,37 +27,37 @@
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/123云盘地址.png","version": "  "}
 ]},
 {"name": "TVbox","list": [
-{"name": "T版64位","url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-arm64-generic.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/T版tvbox.png","version": "20240929-1529"},
-{"name": "T版32位","url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-arm64-hisense.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/T版tvbox.png","version": "20240929-1529"},
-{"name": "海信T版64位","url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-armeabi-generic.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/T版tvbox.png","version": "20240929-1529"},
-{"name": "海信T版32位","url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-armeabi-hisense.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/T版tvbox.png","version": "20240929-1529"},
-{"name": "Q版32位","url": "https://mirror.ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20241029-0923/TVBox_q215613905_20241029-0923.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/Q版tvbox.png","version": "20240929-1529"},
-{"name": "Mbox(手机）","url": "https://mirror.ghproxy.com/https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases/download/v1.1.1/MBox_v1.1.1_release_20240828.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/Mbox.png","version": "v1.1.1（手机）"}
+{"name": "T版64位","url": "https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-arm64-generic.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/T版tvbox.png","version": "20240929-1529"},
+{"name": "T版32位","url": "https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-arm64-hisense.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/T版tvbox.png","version": "20240929-1529"},
+{"name": "海信T版64位","url": "https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-armeabi-generic.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/T版tvbox.png","version": "20240929-1529"},
+{"name": "海信T版32位","url": "https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240929-1529/TVBox_takagen99_20240929-1529-armeabi-hisense.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/T版tvbox.png","version": "20240929-1529"},
+{"name": "Q版32位","url": "https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20241029-0923/TVBox_q215613905_20241029-0923.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/Q版tvbox.png","version": "20240929-1529"},
+{"name": "Mbox(手机）","url": "https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile/releases/download/v1.1.1/MBox_v1.1.1_release_20240828.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/Mbox.png","version": "v1.1.1（手机）"}
 ]},
 {"name": "电视软件","list": [
-{"name": "EasyTV","url": "https://mirror.ghproxy.com/https://github.com/aiyakuaile/easy_tv_live/releases/download/2.8.1/easyTV-2.8.1-tv.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/极简TV.png","version": "2.8.1"},
-{"name": "EasyTV","url": "https://mirror.ghproxy.com/https://github.com/aiyakuaile/easy_tv_live/releases/download/2.8.1/easyTV-2.8.1.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/极简TV.png","version": "2.8.1手机版"},
-{"name": "EasyTV","url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.8.1/easyTV-2.8.1-tv.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/极简TV.png","version": "2.8.1gitee"},
-{"name": "EasyTV","url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.8.1/easyTV-2.8.1.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/极简TV.png","version": "2.8.1手机gitee"},
-{"name": "央视浏览器","url": "https://mirror.ghproxy.com/https://github.com/Eanya-Tonic/CCTV_Viewer/releases/download/v1.7.3/v1.7.3.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/CCTV浏览器.png","version": "v1.7.3"},
-{"name": "央视浏览器","url": "https://mirror.ghproxy.com/https://github.com/Eanya-Tonic/CCTV_Viewer/releases/download/v1.7.3/v1.7.3_no_x5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/CCTV浏览器.png","version": "v1.7.3无x5"},
-{"name": "my-tv-0","url": "https://mirror.ghproxy.com/https://github.com/lizongying/my-tv-0/releases/download/v1.3.8.14-kitkat/my-tv-0.1.3.8.14-kitkat.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/my-tv-0.png","version": "安卓4.x0.1.3.8.14"},
-{"name": "my-tv-0","url": "https://mirror.ghproxy.com/https://github.com/lizongying/my-tv-0/releases/download/v1.3.8.14-kitkat/my-tv-0-v1.0.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/my-tv-0.png","version": "v1.0.4"},
-{"name": "ourTV","url": "https://mirror.ghproxy.com/https://github.com/andandroidor/ourtv/releases/download/3.6.0/OurTV_3.6.0_android_tv.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/ourTV.png","version": "3.6.0"},
-{"name": "直-电视VIP","url": "https://mirror.ghproxy.com/https://github.com/vbskycn/iptv/releases/download/20241010/VIP20241010.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "v20241010"},
-{"name": "直-电视VIP","url": "https://mirror.ghproxy.com/https://github.com/vbskycn/iptv/releases/download/20241010/VIP20246666.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "防阻断20241010"}
+{"name": "EasyTV","url": "https://github.com/aiyakuaile/easy_tv_live/releases/download/2.9.0/easyTV-2.9.0-tv.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/极简TV.png","version": "2.9.0"},
+{"name": "EasyTV","url": "https://github.com/aiyakuaile/easy_tv_live/releases/download/2.9.0/easyTV-2.9.0.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/极简TV.png","version": "2.9.0手机版"},
+{"name": "EasyTV","url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.9.0/easyTV-2.9.0-tv.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/极简TV.png","version": "2.9.0gitee"},
+{"name": "EasyTV","url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.9.0/easyTV-2.9.0.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/极简TV.png","version": "2.9.0手机gitee"},
+{"name": "央视浏览器","url": "https://github.com/Eanya-Tonic/CCTV_Viewer/releases/download/v1.7.3/v1.7.3.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/CCTV浏览器.png","version": "v1.7.3"},
+{"name": "央视浏览器","url": "https://github.com/Eanya-Tonic/CCTV_Viewer/releases/download/v1.7.3/v1.7.3_no_x5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/CCTV浏览器.png","version": "v1.7.3无x5"},
+{"name": "my-tv-0","url": "https://github.com/lizongying/my-tv-0/releases/download/v1.3.8.14-kitkat/my-tv-0.1.3.8.14-kitkat.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/my-tv-0.png","version": "安卓4.x0.1.3.8.14"},
+{"name": "my-tv-0","url": "https://github.com/lizongying/my-tv-0/releases/download/v1.3.8.14-kitkat/my-tv-0-v1.0.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/my-tv-0.png","version": "v1.0.4"},
+{"name": "ourTV","url": "https://github.com/andandroidor/ourtv/releases/download/3.6.0/OurTV_3.6.0_android_tv.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/ourTV.png","version": "3.6.0"},
+{"name": "直-电视VIP","url": "https://github.com/vbskycn/iptv/releases/download/20241010/VIP20241010.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "v20241010"},
+{"name": "直-电视VIP","url": "https://github.com/vbskycn/iptv/releases/download/20241010/VIP20246666.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "防阻断20241010"}
 ]},
 {"name": "音乐软件(手机版）","list": [
-{"name": "MusicFree","url": "https://mirror.ghproxy.com/https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-arm64-v8a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "0.4.3_64位"},
-{"name": "MusicFree","url": "https://mirror.ghproxy.com/https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-armeabi-v7a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "0.4.3_32位"},
-{"name": "MusicFree","url": "https://mirror.ghproxy.com/https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-universal-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "0.4.3_32+64位"},
-{"name": "MusicFree","url": "https://mirror.ghproxy.com/https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-x86_64-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "x86v0.4.3_64位"},
-{"name": "MusicFree","url": "https://mirror.ghproxy.com/https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-x86-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "x86v0.4.3_32位"},
-{"name": "洛雪 ","url": "https://mirror.ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-arm64-v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_64位"},
-{"name": "洛雪 ","url": "https://mirror.ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-armeabi-v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_32位"},
-{"name": "洛雪","url": "https://mirror.ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-armeabi-v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_32+64位"},
-{"name": "洛雪x86","url": "https://mirror.ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-x86_64.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_64位"},
-{"name": "洛雪x86","url": "https://mirror.ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-x86.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_32位"}
+{"name": "MusicFree","url": "https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-arm64-v8a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "0.4.3_64位"},
+{"name": "MusicFree","url": "https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-armeabi-v7a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "0.4.3_32位"},
+{"name": "MusicFree","url": "https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-universal-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "0.4.3_32+64位"},
+{"name": "MusicFree","url": "https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-x86_64-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "x86v0.4.3_64位"},
+{"name": "MusicFree","url": "https://github.com/maotoumao/MusicFree/releases/download/v0.4.3/app-x86-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "x86v0.4.3_32位"},
+{"name": "洛雪 ","url": "https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-arm64-v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_64位"},
+{"name": "洛雪 ","url": "https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-armeabi-v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_32位"},
+{"name": "洛雪","url": "https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-armeabi-v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_32+64位"},
+{"name": "洛雪x86","url": "https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-x86_64.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_64位"},
+{"name": "洛雪x86","url": "https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-x86.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_32位"}
 ]},
 {"name": "资源网站","list": [
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zy/影用仓库说明.png","version": ""},
@@ -67,9 +67,9 @@
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zy/奇奇资源合集.png","version": ""}
 ]},
 {"name": "AListFlutter(Alist安卓版）","list": [
-{"name": "AListF32位","url": "https://mirror.ghproxy.com/https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"},
-{"name": "AListF64位","url": "https://mirror.ghproxy.com/https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301_arm64-v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"},
-{"name": "x86_64位","url": "https://mirror.ghproxy.com/https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301_x86_64.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"}
+{"name": "AListF32位","url": "https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"},
+{"name": "AListF64位","url": "https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301_arm64-v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"},
+{"name": "x86_64位","url": "https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301_x86_64.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"}
 ]},
 {"name": "Kodi","list": [
 {"name": "Kodi32位","url": "https://mirrors.kodi.tv/releases/android/arm/kodi-21.1-Omega-armeabi-v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/kodi.png","version": "v21.0"},
@@ -83,55 +83,55 @@
 {"name": "德国增强","url": "https://www.kodi.org.cn/releases/21Omega/Kodi21Beta2JQ/Kodinerds21HDR10%2B/32kodinerds21.armeabi-v7a-202312220405-9e3e79dd-Omega.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/kodi.png","version": "32位v21.0"},
 {"name": "德国增强","url": "https://www.kodi.org.cn/releases/21Omega/Kodi21Beta2JQ/Kodinerds21HDR10%2B/64kodinerds21.arm64-v8a-202312220518-9e3e79dd-Omega.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/kodi.png","version": "64位v21.0"},
 {"name": "fireTV","url": "https://www.kodi.org.cn/releases/21Omega/Kodi21Beta2JQ/Kodinerds21HDR10%2B/kodinerds21.firetv.armeabi-v7a-202312220631-c62ab9c3-Omega.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/kodi.png","version": "32位v21.0"},
-{"name": "fandangos","url": "https://mirror.ghproxy.com/https://github.com/fandangos/Kodi-HDR-Edition/releases/download/1.22/kodiapp-armeabi-v7a-release-v1.22.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/kodi.png","version": "32位v21.0"},
-{"name": "fandangos","url": "https://mirror.ghproxy.com/https://github.com/fandangos/Kodi-HDR-Edition/releases/download/1.22/kodiapp-arm64-v8a-release-v1.22.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/kodi.png","version": "64位v21.0"},
+{"name": "fandangos","url": "https://github.com/fandangos/Kodi-HDR-Edition/releases/download/1.22/kodiapp-armeabi-v7a-release-v1.22.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/kodi.png","version": "32位v21.0"},
+{"name": "fandangos","url": "https://github.com/fandangos/Kodi-HDR-Edition/releases/download/1.22/kodiapp-arm64-v8a-release-v1.22.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/kodi.png","version": "64位v21.0"},
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/蓝奏云资料.png","version": ""},
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/小飞机资料.png","version": ""},
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/123资料.png","version": ""}
 ]},
 {"name": "原版影视（fongmi,比公众号慢）","list": [
-{"name": "py64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
-{"name": "py32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
-{"name": "ja64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
-{"name": "ja32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
-{"name": "手机p64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
-{"name": "手机p32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
-{"name": "手机j64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
-{"name": "手机j32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"}
+{"name": "py64位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
+{"name": "py32位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
+{"name": "ja64位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
+{"name": "ja32位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
+{"name": "手机p64位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
+{"name": "手机p32位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
+{"name": "手机j64位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
+{"name": "手机j32位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"}
 ]},
 {"name": "原版影视测试（fongmi测试比公众号慢）","list": [
-{"name": "py64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
-{"name": "py32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
-{"name": "ja64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
-{"name": "ja32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
-{"name": "手机p64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
-{"name": "手机p32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
-{"name": "手机j64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
-{"name": "手机j32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"}
+{"name": "py64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
+{"name": "py32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
+{"name": "ja64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
+{"name": "ja32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
+{"name": "手机p64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
+{"name": "手机p32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
+{"name": "手机j64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
+{"name": "手机j32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"}
 ]},
 {"name": "OK影视github（很久不更新）","list": [
-{"name": "py64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
-{"name": "py32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
-{"name": "ja64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
-{"name": "ja32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
-{"name": "手机p64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
-{"name": "手机p32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
-{"name": "手机j64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
-{"name": "手机j32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
-{"name": "海信版","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/海信专版.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "海信电视版"},
-{"name": "TVX5离线","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/电视版-X5离线.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TVX5离线版"},
-{"name": "安卓4.x","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TV安卓4.x"}
+{"name": "py64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
+{"name": "py32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
+{"name": "ja64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
+{"name": "ja32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
+{"name": "手机p64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
+{"name": "手机p32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
+{"name": "手机j64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
+{"name": "手机j32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
+{"name": "海信版","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/release/海信专版.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "海信电视版"},
+{"name": "TVX5离线","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/release/电视版-X5离线.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TVX5离线版"},
+{"name": "安卓4.x","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TV安卓4.x"}
 ]},
 {"name": "测试版OK影视github（很久不更新）","list": [
-{"name": "py64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
-{"name": "py32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
-{"name": "ja64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
-{"name": "ja32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
-{"name": "手机p64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
-{"name": "手机p32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
-{"name": "手机j64位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
-{"name": "手机j32位","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
-{"name": "海信版","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/海信专版.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "海信电视版"},
-{"name": "TVX5离线","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/电视版-X5离线.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TVX5离线版"}
+{"name": "py64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
+{"name": "py32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
+{"name": "ja64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
+{"name": "ja32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
+{"name": "手机p64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
+{"name": "手机p32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python32位"},
+{"name": "手机j64位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java64位"},
+{"name": "手机j32位","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
+{"name": "海信版","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/海信专版.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "海信电视版"},
+{"name": "TVX5离线","url": "https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/电视版-X5离线.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TVX5离线版"}
 ]}
 ]
