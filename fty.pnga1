@@ -727,6 +727,17 @@
             "changeable": 0,
             "ext": "https://nxog.top/公众号欧歌APP/ts/sd.php"
         },
+//欧歌应用商店潇洒本地包
+        {
+            "key": "潇洒本地包",
+            "name": "🛒潇洒本地包",
+            "type": 3,
+            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "http://123.yy.xn--dkw.xn--6qq986b3xl/sd.php"
+        },
 
 
 
