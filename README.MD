@@ -105,7 +105,37 @@ https://gitlab.com/jixiejishu/zytzx/-/raw/main/nf.pnga
 
 
 
+## 潇洒本地包    
+单线路   
+★订阅链接★   
 
+通用订阅链接：  
+
+clan://localhost/TVBoxOSC/tvbox/api.json   
+
+影视(fongmi版)专用订阅链接：   
+
+file://TVBoxOSC/tvbox/api.json   
+
+多线路    
+
+★订阅链接★   
+
+通用订阅链接：   
+
+clan://localhost/TVBoxOSC/本地仓/本地仓.txt   
+
+影视(fongmi版)专用订阅链接：   
+
+file://TVBoxOSC/本地仓/影视.txt   
+
+★本地包在线更新方式★    
+
+1、点击站点内的“潇洒本地包”选择“检查｜更新”  
+2、根据个人喜好选择单线路或多线路   
+3、点击图标后会自动下载解压   
+4、更新完成后会有提示   
+5、最后重启软件即可  
 
 
 
