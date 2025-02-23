@@ -7,13 +7,13 @@ z=直播  y=优爱腾 t=体育
 由于电视内容都需要加速使用了不同的加速平台。 
 
 通过更改后缀切换不同的加速平台：  
-api.pnga=https://ghgo.xyz   
+api.pnga=https://ghfast.top   
 后面加1    
 api.pnga1=https://mirror.ghproxy.com/  
 后面加2    
-api.pnga2=借用刘老备加速   
+api.pnga2=借用欧歌加速     
 后面加3      
-api.pnga3=借用欧歌加速   
+api.pnga3=借用刘老备加速   
 
 
 ## 1.基于肥猫的接口地址：
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga
 
 下面是加上加速地址，可以直接使用：   
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga    
-https://ghgo.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga      
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fm.pnga      
 
 codeberg接口：  
 https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fm.pnga    
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga
 
 下面是加上加速地址，可以直接使用：   
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga    
-https://ghgo.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga      
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/fty.pnga      
 
 codeberg接口：  
 https://codeberg.org/jixiejishu/zytzx/raw/branch/main/fty.pnga    
@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga
 
 下面是加上加速地址，可以直接使用：   
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/og.pnga    
-https://ghgo.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xm.pnga      
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xm.pnga      
 
 codeberg接口：  
 https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga    
@@ -79,13 +79,29 @@ https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xm.pnga
 
 下面是加上加速地址，可以直接使用：   
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xm.pnga    
-https://ghgo.xyz/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xm.pnga      
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xm.pnga      
 
 codeberg接口：  
 https://codeberg.org/jixiejishu/zytzx/raw/branch/main/xm.pnga    
 
 gitlab:   
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/xm.pnga     
+
+## 5.基于南风的接口地址：
+github接口：    
+原地址：（需要挂载加速平台使用。）   
+https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/nf.pnga   
+
+
+下面是加上加速地址，可以直接使用：   
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/nf.pnga    
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/nf.pnga      
+
+codeberg接口：  
+https://codeberg.org/jixiejishu/zytzx/raw/branch/main/nf.pnga    
+
+gitlab:   
+https://gitlab.com/jixiejishu/zytzx/-/raw/main/nf.pnga     
 
 
 
