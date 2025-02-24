@@ -11,7 +11,10 @@
 {"name": "OK手机版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
 {"name": "OK海信版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/海信专版.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "海信电视版"},
 {"name": "OKTVX5版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/电视版-X5离线.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TVX5离线版"},
-{"name": "OK安卓4.x","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/kitkat/leanback.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TV安卓4.x"}
+{"name": "OK安卓4.x","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/kitkat/leanback.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TV安卓4.x"},
+{"name": "OK海信版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/pro/leanback-pro.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "OKProTV版"},
+{"name": "OKTVX5版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/pro/mobile-emu-pro.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "OKPro手机模拟器用"},
+{"name": "OK安卓4.x","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/pro/mobile-pro.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "OKPro手机版"}
 ]},
 {"name": "常用资料，使用前阅读","list": [
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/说明.png","version": "  "},
@@ -126,7 +129,10 @@
 {"name": "OK手机版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-java-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "java32位"},
 {"name": "OK海信版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/海信专版.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "海信电视版"},
 {"name": "OKTVX5版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/电视版-X5离线.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TVX5离线版"},
-{"name": "OK安卓4.x","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/kitkat/leanback.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TV安卓4.x"}
+{"name": "OK安卓4.x","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/kitkat/leanback.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "TV安卓4.x"},
+{"name": "OK海信版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/pro/leanback-pro.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "OKProTV版"},
+{"name": "OKTVX5版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/pro/mobile-emu-pro.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "OKPro手机模拟器用"},
+{"name": "OK安卓4.x","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/pro/mobile-pro.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "OKPro手机版"}
 ]},
 {"name": "测试版OK影视github（有时很久不更新）","list": [
 {"name": "OKTV版","url": "https://raw.githubusercontent.com/FongMi/Release/okjack/apk/dev/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
