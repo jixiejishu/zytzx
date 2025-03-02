@@ -1,0 +1,13 @@
+//本地包
+[
+{"name": "推荐","list": [
+{"name": " ","url": " ","icon": "https://jihulab.com/fourd/FourD/-/raw/main/莫比乌斯环.jpg","version": " "}
+]},
+{"name": "本地包","list": [
+{"name": "奇奇","url": "https://pan.beecld.com/f/lxYzSw/%E5%A5%87%E5%A5%87%EF%BC%8C20250224.zip","icon": " ","version": "20250224"},
+{"name": "潇洒","url": "https://pan.beecld.com/f/KQnmtx/%E6%BD%87%E6%B4%92%EF%BC%8C20250222.zip","icon": " ","version": "20250222"},
+{"name": "无忧","url": "https://pan.beecld.com/f/xRlQi5/TVBox0213.zip","icon": " ","version": "20250213"},
+{"name": "潇洒gitee","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%EF%BC%8C20250222.zip","icon": " ","version": "20250222"},
+{"name": "无忧gitee","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/TVBox0213.zip","icon": " ","version": "20250213"}
+]}
+]

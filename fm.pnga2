@@ -848,7 +848,24 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "https://9877.kstore.space/Market/market.json"
-        }
+        },
+        {
+            "key": "本地包",
+            "name": "本地包",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "./本地包接口.txt"
+        }，
+
+
+
+//云星日记无忧
+{"key": "无忧本地更新","name": "📂无忧本地包更新","type": 3,"jar":"https://gitee.com/liu_wuyou/box/raw/master/jar/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar","api": "csp_Market","searchable": 0,"changeable": 0,"indexs": 0,"ext": "https://gitee.com/liu_wuyou/box/raw/master/jk/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.txt"}
+
+
 
 
 
