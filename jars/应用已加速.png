@@ -166,10 +166,10 @@
 {"name": "tbox(网盘）","url": "https://pan.beecld.com/f/7m0VH0/tBox_1.0.18.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/tbox.png","version": "1.0.18"},
 {"name": "UZ64位","url": "https://pan.beecld.com/f/m7bvtb/uz%E5%BD%B1%E8%A7%861.6.52_%E5%AE%89%E5%8D%9364%E4%BD%8D.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/UZ.png","version": "1.6.52(支持TV)"},
 {"name": "UZ32位","url": "https://pan.beecld.com/f/gx30Fl/uz%E5%BD%B1%E8%A7%861.6.52_%E5%AE%89%E5%8D%9332%E4%BD%8D.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/UZ.png","version": "1.6.52(支持TV)"},
-{"name": "益达64位","url": "https://ghfast.top/https://github.com/xiaohucode/yidaRule/releases/download/1.1.28%2B2/yidaApp-1.1.28.2-arm64-v8a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "1.1.28.2"},
-{"name": "益达32位","url": "https://ghfast.top/https://github.com/xiaohucode/yidaRule/releases/download/1.1.28/yidaApp-1.1.28-armeabi-v7a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "1.1.28"},
-{"name": "益达64位","url": "https://pan.beecld.com/f/Bko7cQ/yidaApp-1.1.28.2-arm64-v8a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "1.1.28.2"},
-{"name": "益达32位","url": "https://pan.beecld.com/f/lx7vUw/yidaApp-1.1.28-armeabi-v7a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "1.1.28"}
+{"name": "益达","url": "https://ghfast.top/https://github.com/xiaohucode/yidaRule/releases/download/1.1.28%2B2/yidaApp-1.1.28.2-arm64-v8a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "64位1.1.28.2"},
+{"name": "益达","url": "https://ghfast.top/https://github.com/xiaohucode/yidaRule/releases/download/1.1.28/yidaApp-1.1.28-armeabi-v7a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "32位1.1.28"},
+{"name": "益达(网盘）","url": "https://pan.beecld.com/f/Bko7cQ/yidaApp-1.1.28.2-arm64-v8a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "64位1.1.28.2"},
+{"name": "益达(网盘）","url": "https://pan.beecld.com/f/lx7vUw/yidaApp-1.1.28-armeabi-v7a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "32位1.1.28"}
 ]},
 {"name": "资源网站","list": [
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zy/影用仓库说明.png","version": ""},
