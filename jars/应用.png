@@ -161,10 +161,15 @@
 {"name": "波澜投影","url": "https://pan.beecld.com/f/q2qvHk/%E6%B5%B7%E9%98%94%E4%B8%96%E7%95%8C%E9%85%8D%E5%A5%97%E6%8A%95%E5%B1%8F%E5%B7%A5%E5%85%B7%E6%B3%A2%E6%BE%9C%E6%8A%95%E5%B1%8F_V4.1_C47.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/波澜投影.png","version": "v4.1安卓5以上"},
 {"name": "海阔世界","url": "https://pan.beecld.com/f/WzbYc1/%E6%B5%B7%E9%98%94%E8%A7%86%E7%95%8C_V8.76_C5515_db53-64%E4%BD%8D.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/海阔世界.png","version": "8.76_64位"},
 {"name": "嗅觉浏览器","url": "https://pan.beecld.com/f/nWbdTD/%E5%97%85%E8%A7%89%E6%B5%8F%E8%A7%88%E5%99%A8_-6.76_C2262_db45-64%E4%BD%8D.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/嗅觉浏览器.png","version": "6.76_64位"},
-{"name": "tbox","url": "https://pan.beecld.com/f/v407c3/tBox_1.0.16.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/tbox.png","version": "1.0.16"},
-{"name": "tbox","url": "https://pan.beecld.com/f/7m0VH0/tBox_1.0.18.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/tbox.png","version": "1.0.18"},
+{"name": "tbox","url": "https://github.com/1771245847/TvBox/releases/download/tBox-1.0.16/tBox-1.0.16.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/tbox.png","version": "1.0.16"},
+{"name": "tbox(网盘）","url": "https://pan.beecld.com/f/v407c3/tBox_1.0.16.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/tbox.png","version": "1.0.16"},
+{"name": "tbox(网盘）","url": "https://pan.beecld.com/f/7m0VH0/tBox_1.0.18.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/tbox.png","version": "1.0.18"},
 {"name": "UZ64位","url": "https://pan.beecld.com/f/m7bvtb/uz%E5%BD%B1%E8%A7%861.6.52_%E5%AE%89%E5%8D%9364%E4%BD%8D.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/UZ.png","version": "1.6.52(支持TV)"},
-{"name": "UZ32位","url": "https://pan.beecld.com/f/gx30Fl/uz%E5%BD%B1%E8%A7%861.6.52_%E5%AE%89%E5%8D%9332%E4%BD%8D.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/UZ.png","version": "1.6.52(支持TV)"}
+{"name": "UZ32位","url": "https://pan.beecld.com/f/gx30Fl/uz%E5%BD%B1%E8%A7%861.6.52_%E5%AE%89%E5%8D%9332%E4%BD%8D.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/UZ.png","version": "1.6.52(支持TV)"},
+{"name": "益达64位","url": "https://github.com/xiaohucode/yidaRule/releases/download/1.1.28%2B2/yidaApp-1.1.28.2-arm64-v8a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "1.1.28.2"},
+{"name": "益达32位","url": "https://github.com/xiaohucode/yidaRule/releases/download/1.1.28/yidaApp-1.1.28-armeabi-v7a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "1.1.28"},
+{"name": "益达64位","url": "https://pan.beecld.com/f/Bko7cQ/yidaApp-1.1.28.2-arm64-v8a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "1.1.28.2"},
+{"name": "益达32位","url": "https://pan.beecld.com/f/lx7vUw/yidaApp-1.1.28-armeabi-v7a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/hk/yida.png","version": "1.1.28"}
 ]},
 {"name": "资源网站","list": [
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zy/影用仓库说明.png","version": ""},
