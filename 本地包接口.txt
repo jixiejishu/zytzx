@@ -16,5 +16,5 @@
 {"name": "gitee","list": [
 {"name": "潇洒","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%EF%BC%8C20250222.zip","icon": " ","version": "20250222"},
 {"name": "无忧","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A7TVBox0305.zip","icon": " ","version": "20250305"}
-]},
+]}
 ]
