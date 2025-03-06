@@ -3,9 +3,18 @@
 {"name": "推荐","list": [
 {"name": " ","url": " ","icon": "https://jihulab.com/fourd/FourD/-/raw/main/莫比乌斯环.jpg","version": " "}
 ]},
-{"name": "本地包","list": [
-{"name": "奇奇","url": "https://pan.beecld.com/f/lxYzSw/%E5%A5%87%E5%A5%87%EF%BC%8C20250224.zip","icon": " ","version": "20250224"},
+{"name": "轻享云盘","list": [
+{"name": "奇奇","url": "https://pan.beecld.com/f/ObdQt5/%E5%A5%87%E5%A5%87%EF%BC%8C20250305.zip","icon": " ","version": "20250305"},
 {"name": "潇洒","url": "https://pan.beecld.com/f/KQnmtx/%E6%BD%87%E6%B4%92%EF%BC%8C20250222.zip","icon": " ","version": "20250222"},
-{"name": "潇洒gitee","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%EF%BC%8C20250222.zip","icon": " ","version": "20250222"}
-]}
+{"name": "无忧","url": "https://pan.beecld.com/f/5Ay1So/%E6%97%A0%E5%BF%A7TVBox0305.zip","icon": " ","version": "20250305"}
+]},
+{"name": "杏仁云盘","list": [
+{"name": "奇奇","url": "https://acbox.app/f/a9dOSO/%E5%A5%87%E5%A5%87%EF%BC%8C20250305.zip","icon": " ","version": "20250305"},
+{"name": "潇洒","url": "https://acbox.app/f/oalqUB/%E6%BD%87%E6%B4%92%EF%BC%8C20250222.zip","icon": " ","version": "20250222"},
+{"name": "无忧","url": "https://acbox.app/f/kPxzfg/%E6%97%A0%E5%BF%A7TVBox0305.zip","icon": " ","version": "20250305"}
+]},
+{"name": "gitee","list": [
+{"name": "潇洒","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%EF%BC%8C20250222.zip","icon": " ","version": "20250222"},
+{"name": "无忧","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A7TVBox0305.zip","icon": " ","version": "20250305"}
+]},
 ]
