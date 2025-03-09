@@ -1,7 +1,7 @@
 # 项目简介  
 内容来自于奇奇、道长的本地包和高天流云的线路  
 项目主要是 下面三种：  
-z=直播  y=优爱腾 t=体育   
+z=直播  y=优爱腾 t=体育   zx=使用了欧歌的在线版组件
 
 目前的版本基于欧歌主线路的本地包。优爱腾使用的是道长的接口。电视内容使用了摸鱼的工具。  
 由于电视内容都需要加速使用了不同的加速平台。 
@@ -15,6 +15,17 @@ api.pnga2=借用欧歌加速
 后面加3      
 api.pnga3=借用刘老备加速   
 
+************************************************************************    
+应用商店使用注意：  
+1）仅支持影视（fongmi）和OK版影视 影视仓的新版等更新比较快的软件。  
+2）如果提示无法解析就是下载资源出了问题，这时候可以使用网盘的资源。  
+3）潇洒的包2025.3.7版之后，可以使用阿里 夸克 UC的网盘内的资源直接安装APK。  
+第一步,注册网盘之后，保存分享的资源。夸克的盘容量比较小。目前UC比较合适。  
+UC的资源会随着分享者更新而同步更新。  
+第二步,在“配置中心”中按提示扫码登录或者输入相关资料。  
+第三步,在"我的｜阿里网盘","我的｜UC网盘","我的｜夸克网盘",中打开APK 转存的默认一般在分享里面。  
+
+************************************************************************    
 
 ## 1.基于肥猫的接口地址：
 github接口：    
@@ -33,6 +44,7 @@ gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/fm.pnga     
 
 
+************************************************************************    
 
 ## 2.基于饭太硬的接口地址：
 github接口：    
@@ -51,6 +63,7 @@ gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/fty.pnga     
 
 
+************************************************************************    
 
 ## 3.基于欧歌的接口地址：
 github接口：    
@@ -69,6 +82,7 @@ gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga     
 
 
+************************************************************************    
 
 
 ## 4.基于小米的接口地址：
@@ -87,6 +101,9 @@ https://codeberg.org/jixiejishu/zytzx/raw/branch/main/xm.pnga
 gitlab:   
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/xm.pnga     
 
+
+************************************************************************    
+
 ## 5.基于南风的接口地址：
 github接口：    
 原地址：（需要挂载加速平台使用。）   
@@ -103,6 +120,8 @@ https://codeberg.org/jixiejishu/zytzx/raw/branch/main/nf.pnga
 gitlab:   
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/nf.pnga     
 
+
+************************************************************************    
 
 
 ## 潇洒本地包    
@@ -191,3 +210,19 @@ clan://localhost/TVBox/lib/小马.txt
 
 多仓库配置接口：
 ❤️本地+在线多仓 (优选):  clan://localhost/TVBox/lib/ksck.json   
+
+*****************************************************************************  
+##  网盘资源  
+潇洒网盘    
+UC网盘    
+[https://drive.uc.cn/s/ba531661b3eb4?public=1](https://drive.uc.cn/s/ba531661b3eb4?public=1)    
+夸克网盘    
+[https://pan.quark.cn/s/2a68318af1a7](https://pan.quark.cn/s/2a68318af1a7)    
+
+OK版影视：
+UC盘：[https://drive.uc.cn/s/01bc89c897034](https://drive.uc.cn/s/01bc89c897034)    
+夸克：[https://pan.quark.cn/s/6fead79bddaf](https://pan.quark.cn/s/6fead79bddaf)   
+饭太硬（软件更新慢一些）   
+应用工具合集: (提取码：bdnn)      
+地址1（UC）：[https://drive.uc.cn/s/8efe230949314#/list/share](https://drive.uc.cn/s/8efe230949314#/list/share)    
+地址2（迅雷）:[https://pan.xunlei.com/s/VO4KPd68xHazX9u1VNQNsCqpA1?pwd=bdnn](https://pan.xunlei.com/s/VO4KPd68xHazX9u1VNQNsCqpA1?pwd=bdnn)   
