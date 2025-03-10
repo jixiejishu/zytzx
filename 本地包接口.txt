@@ -5,16 +5,19 @@
 ]},
 {"name": "轻享云盘","list": [
 {"name": "奇奇","url": "https://pan.beecld.com/f/ObdQt5/%E5%A5%87%E5%A5%87%EF%BC%8C20250305.zip","icon": " ","version": "20250305"},
-{"name": "潇洒","url": "https://pan.beecld.com/f/KQnmtx/%E6%BD%87%E6%B4%92%EF%BC%8C20250222.zip","icon": " ","version": "20250222"},
-{"name": "无忧","url": "https://pan.beecld.com/f/5Ay1So/%E6%97%A0%E5%BF%A7TVBox0305.zip","icon": " ","version": "20250305"}
+{"name": "潇洒","url": "https://pan.beecld.com/f/kAjYIM/%E6%BD%87%E6%B4%922025.3.9.zip","icon": " ","version": "20250309"},
+{"name": "无忧","url": "https://pan.beecld.com/f/pw7bCq/%E6%97%A0%E5%BF%A7TVBox0310.1.zip","icon": " ","version": "20250310.1"},
+{"name": "真心","url": "https://pan.beecld.com/f/0QNxuy/%E7%9C%9F%E5%BF%83_%E6%97%A0%E5%BF%A72025.3.9.zip","icon": " ","version": "20250309"}
 ]},
 {"name": "杏仁云盘","list": [
 {"name": "奇奇","url": "https://acbox.app/f/a9dOSO/%E5%A5%87%E5%A5%87%EF%BC%8C20250305.zip","icon": " ","version": "20250305"},
-{"name": "潇洒","url": "https://acbox.app/f/oalqUB/%E6%BD%87%E6%B4%92%EF%BC%8C20250222.zip","icon": " ","version": "20250222"},
-{"name": "无忧","url": "https://acbox.app/f/kPxzfg/%E6%97%A0%E5%BF%A7TVBox0305.zip","icon": " ","version": "20250305"}
+{"name": "潇洒","url": "https://acbox.app/f/V9RMU0/%E6%BD%87%E6%B4%922025.3.9.zip","icon": " ","version": "20250309"},
+{"name": "无忧","url": "https://acbox.app/f/X6wntD/%E6%97%A0%E5%BF%A7TVBox0310.1.zip","icon": " ","version": "20250310.1"},
+{"name": "真心","url": "https://acbox.app/f/mOolc1/%E7%9C%9F%E5%BF%83_%E6%97%A0%E5%BF%A72025.3.9.zip","icon": " ","version": "20250309"}
 ]},
 {"name": "gitee","list": [
-{"name": "潇洒","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%EF%BC%8C20250222.zip","icon": " ","version": "20250222"},
-{"name": "无忧","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A7TVBox0305.zip","icon": " ","version": "20250305"}
+{"name": "潇洒","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%922025.3.9.zip","icon": " ","version": "20250309"},
+{"name": "无忧","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A7TVBox0310.1.zip","icon": " ","version": "20250310.1"},
+{"name": "真心","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E7%9C%9F%E5%BF%83_%E6%97%A0%E5%BF%A72025.3.9.zip","icon": " ","version": "20250309"}
 ]}
 ]
