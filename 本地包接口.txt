@@ -7,17 +7,17 @@
 {"name": "奇奇","url": "https://pan.beecld.com/f/bWngIm/%E5%A5%87%E5%A5%87%EF%BC%8C20250312.zip","icon": " ","version": "20250312"},
 {"name": "潇洒","url": "https://pan.beecld.com/f/MAnVS6/%E6%BD%87%E6%B4%92%EF%BC%8C20250309.zip","icon": " ","version": "20250309"},
 {"name": "无忧","url": "https://pan.beecld.com/f/AVjgIv/%E6%97%A0%E5%BF%A7TVBox0312.zip","icon": " ","version": "20250312"},
-{"name": "真心","url": "https://pan.beecld.com/f/q2RNck/%E7%9C%9F%E5%BF%83_%E6%97%A0%E5%BF%A720250312.zip","icon": " ","version": "20250312"}
+{"name": "真心","url": "https://pan.beecld.com/f/lxbotw/%E7%9C%9F%E5%BF%83_%E6%97%A0%E5%BF%A72025.3.12.1.zip","icon": " ","version": "20250312.1"}
 ]},
 {"name": "杏仁云盘","list": [
 {"name": "奇奇","url": "https://acbox.app/f/6JOJIr/%E5%A5%87%E5%A5%87%EF%BC%8C20250312.zip","icon": " ","version": "20250309"},
 {"name": "潇洒","url": "https://acbox.app/f/OmK3HP/%E6%BD%87%E6%B4%92%EF%BC%8C20250309.zip","icon": " ","version": "20250312"},
 {"name": "无忧","url": "https://acbox.app/f/GYNQun/%E6%97%A0%E5%BF%A7TVBox0312.zip","icon": " ","version": "20250312"},
-{"name": "真心","url": "https://acbox.app/f/KDbRS5/%E7%9C%9F%E5%BF%83_%E6%97%A0%E5%BF%A720250312.zip","icon": " ","version": "20250312"}
+{"name": "真心","url": "https://acbox.app/f/xPv8ck/%E7%9C%9F%E5%BF%83_%E6%97%A0%E5%BF%A72025.3.12.1.zip","icon": " ","version": "20250312.1"}
 ]},
 {"name": "gitee","list": [
 {"name": "潇洒","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%EF%BC%8C20250309.zip","icon": " ","version": "20250309"},
 {"name": "无忧","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A7TVBox0312.zip","icon": " ","version": "20250312"},
-{"name": "真心","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E7%9C%9F%E5%BF%83_%E6%97%A0%E5%BF%A720250312.zip","icon": " ","version": "20250312"}
+{"name": "真心","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A7TVBox0312.zip","icon": " ","version": "20250312.1"}
 ]}
 ]
