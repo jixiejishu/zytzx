@@ -1,6 +1,6 @@
 [
-{"name":"IPTV每天两更Guovintxt","url": "https://ghfast.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"},
-{"name":"IPTV每天两更Guovinm3u","url": "https://ghfast.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"},
+{"name":"IPTV每天两更Guovintxt","url": "https://ghgo.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"},
+{"name":"IPTV每天两更Guovinm3u","url": "https://ghgo.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"},
 
 
 
@@ -9,7 +9,7 @@
 {"name":"kakaxiipv6","url": "https://live.kakaxi-1.ink/ipv6.m3u"},
 
 
-{"name":"suxuang","url": "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u"},
+{"name":"suxuang","url": "https://ghgo.xyz/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u"},
 
 
 
@@ -19,9 +19,9 @@
 
 
 
-{"name":"fanmingmingipv4","url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u"},
-{"name":"fanmingmingipv6","url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"},
-{"name":"fanmingming收音机","url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/m3u/fm.m3u"},
+{"name":"fanmingmingipv4","url": "https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u"},
+{"name":"fanmingmingipv6","url": "https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"},
+{"name":"fanmingming收音机","url": "https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/m3u/fm.m3u"},
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-{"name":"YanG-1989直播github","url": "https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
+{"name":"YanG-1989直播github","url": "https://ghgo.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
 {"name":"YanG-1989电视有时打不开","url": "https://tv.iill.top/m3u/Gather"},
 {"name":"YanG-1989网络直播有时打不开","url": "https://tv.iill.top/m3u/Live"},
 {"name":"YanG-1989体育有时打不开","url": "https://tv.iill.top/m3u/Sport"},
@@ -47,13 +47,13 @@
 
 
 
-{"name":"YueChan","url": "https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"},
-{"name":"YueChan收音机","url": "https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u"},
+{"name":"YueChan","url": "https://ghgo.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"},
+{"name":"YueChan收音机","url": "https://ghgo.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u"},
 
 
 
-{"name":"Kimentanmaptv","url": "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"},
-{"name":"Kimentanm收音机","url": "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u"},
+{"name":"Kimentanmaptv","url": "https://ghgo.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"},
+{"name":"Kimentanm收音机","url": "https://ghgo.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u"},
 
 
 
@@ -70,9 +70,9 @@
 
 
 
-{"name":"jisoypubipv4实时更新","url": "https://ghfast.top/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u"},
-{"name":"jisoypubipv6实时更新","url": "https://ghfast.top/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv6.m3u"},
-{"name":"jisoypub收音机实时更新","url": "https://ghfast.top/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/radio.m3u"},
+{"name":"jisoypubipv4实时更新","url": "https://ghgo.xyz/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u"},
+{"name":"jisoypubipv6实时更新","url": "https://ghgo.xyz/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv6.m3u"},
+{"name":"jisoypub收音机实时更新","url": "https://ghgo.xyz/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/radio.m3u"},
 
 
 
@@ -86,10 +86,10 @@
 {"name":"天天开心备用斗鱼有时打不开","url": "http://www.52sw.top:678/iptv/douyu.m3u"},
 
 
-{"name":"天天开心16万MV","url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
+{"name":"天天开心16万MV","url": "https://ghgo.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
 
 {"name":"天天开心超级MV有时打不开","url": "http://kxrj.site:55/lib/MV.txt"},
 
 
-{"name":"饭太硬MemoryCollection","url": "https://ghfast.top/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt"}
+{"name":"饭太硬MemoryCollection","url": "https://ghgo.xyz/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt"}
 ]

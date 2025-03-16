@@ -91,5 +91,5 @@
 {"name":"天天开心超级MV有时打不开","url": "http://kxrj.site:55/lib/MV.txt"},
 
 
-{"name":"饭太硬MemoryCollection","url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt"}
+{"name":"饭太硬MemoryCollection","url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt"}
 ]
