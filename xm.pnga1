@@ -51,46 +51,51 @@
 
 
 //2直播自建
-    {
-      "key": "直播ghgo加速",
-      "name": "直播ghgo加速",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/api/moyulive.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./livejs/ghgojs.txt"
-    },
-    {
-      "key": "直播meyy加速",
-      "name": "直播meyy加速",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/api/moyulive.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./livejs/meyyjs.txt"
-    },
-    {
-      "key": "直播刘老备加速",
-      "name": "直播刘老备加速",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/api/moyulive.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./livejs/liujs.txt"
-    },
-    {
-      "key": "直播欧歌加速",
-      "name": "直播欧歌加速",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/api/moyulive.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./livejs/oujs.txt"
-    },
+
+		{
+			"key": "直播ghgo加速",
+			"name": "直播ghgo加速",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/直播转点播[合].js?type=url&params=./livejs/ghgojs.txt"
+		},
+		{
+			"key": "直播meyy加速",
+			"name": "直播meyy加速",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/直播转点播[合].js?type=url&params=./livejs/meyyjs.txt"
+		},
+		{
+			"key": "直播刘老备加速",
+			"name": "直播刘老备加速",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/直播转点播[合].js?type=url&params=./livejs/liujs.txt"
+		},
+		{
+			"key": "直播欧歌加速",
+			"name": "直播欧歌加速",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/直播转点播[合].js?type=url&params=./livejs/oujs.txt"
+		},
 
 
 
@@ -101,29 +106,7 @@
 
 //3.网络搜集直播转点播
 
-//3.11#摸鱼
-    {
-      "key": "直播转点播摸鱼",
-      "name": "📺️电视┃摸鱼",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/api/moyulive.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
-    },
-//3.2#不良帅
 
-   {
-      "key": "直播转点播不良帅",
-      "name": "📺电视┃不良帅",
-      "type": 3,
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/live2mv.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/zb.json"
-    },
 //3.15#业余打发线路
     {
       "key": "业余打发",
@@ -903,7 +886,7 @@
 {"name":"天天开心超级MV有时打不开","type": 0,"url": "http://kxrj.site:55/lib/MV.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
 //饭太硬线路提取，更新比较慢
 //项目地址：https://github.com//MemoryCollection/IPTV
-{"name":"饭太硬MemoryCollection","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt","logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"}
+{"name":"饭太硬MemoryCollection","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt","logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"}
 
 
   ],
