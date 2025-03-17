@@ -195,6 +195,51 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/直播转点播[合].js?type=url&params=./livejs/oujs.txt"
 		},
 
+//直播自建（备）
+    {
+      "key": "直播ghgo加速（备）",
+      "name": "直播ghgo加速（备）",
+      "playerType": 1,
+      "type": 3,
+      "api": "https://raw.liucn.cc/box/libs/tv/zb.min.js",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./livejs/ghgojs.txt"
+    },
+    {
+      "key": "直播meyy加速（备）",
+      "name": "直播meyy加速（备）",
+      "playerType": 1,
+      "type": 3,
+      "api": "https://raw.liucn.cc/box/libs/tv/zb.min.js",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./livejs/meyyjs.txt"
+    },
+    {
+      "key": "直播刘老备加速（备）",
+      "name": "直播刘老备加速（备）",
+      "playerType": 1,
+      "type": 3,
+      "api": "https://raw.liucn.cc/box/libs/tv/zb.min.js",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./livejs/liujs.txt"
+    },
+    {
+      "key": "直播欧歌加速（备）",
+      "name": "直播欧歌加速（备）",
+      "playerType": 1,
+      "type": 3,
+      "api": "https://raw.liucn.cc/box/libs/tv/zb.min.js",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./livejs/oujs.txt"
+    },
 
 
 
