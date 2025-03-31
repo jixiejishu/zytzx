@@ -4,14 +4,16 @@
 {"name": " ","url": " ","icon": "https://jihulab.com/fourd/FourD/-/raw/main/莫比乌斯环.jpg","version": " "}
 ]},
 {"name": "杏仁云盘","list": [
-{"name": "奇奇","url": "https://acbox.app/f/4YkkSe/%E5%A5%87%E5%A5%87%EF%BC%8C20250319.zip","icon": " ","version": "20250319"},
-{"name": "潇洒","url": "https://acbox.app/f/22PDh8/%E6%BD%87%E6%B4%92%EF%BC%8C2025.3.21.1.zip","icon": " ","version": "20250321.1"},
-{"name": "无忧","url": "https://acbox.app/f/GYNQun/%E6%97%A0%E5%BF%A7TVBox0312.zip","icon": " ","version": "20250312"},
-{"name": "真心","url": "https://acbox.app/f/3yGBuy/%E7%9C%9F%E5%BF%83_%E6%97%A0%E5%BF%A72025.3.13.zip","icon": " ","version": "20250313"}
+{"name": "奇奇","url": "https://acbox.app/f/Wo1lT9/%E5%A5%87%E5%A5%87%EF%BC%8C20250330.zip","icon": " ","version": "20250330"},
+{"name": "潇洒单线路","url": "https://acbox.app/f/l6XOf4/%E6%BD%87%E6%B4%92%E5%8D%95%E7%BA%BF%E8%B7%AF2025.3.31.3.zip","icon": " ","version": "2025.3.31.3"},
+{"name": "潇洒单仓","url": "https://acbox.app/f/bv16UP/%E6%BD%87%E6%B4%92%E5%A4%9A%E7%BA%BF%E8%B7%AF2025.3.31.3.zip","icon": " ","version": "2025.3.31.3"},
+{"name": "无忧","url": "https://acbox.app/f/RnzZTB/%E6%97%A0%E5%BF%A720250324.zip","icon": " ","version": "20250324"},
+{"name": "无忧真心","url": "https://acbox.app/f/5MGNcr/%E6%97%A0%E5%BF%A7_%E7%9C%9F%E5%BF%83202503.30.1.zip","icon": " ","version": "20250330.1"}
 ]},
 {"name": "gitee","list": [
-{"name": "潇洒","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%EF%BC%8C2025.3.21.1.zip","icon": " ","version": "20250321.1"},
-{"name": "无忧","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A7TVBox0312.zip","icon": " ","version": "20250312"},
-{"name": "真心","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E7%9C%9F%E5%BF%83_%E6%97%A0%E5%BF%A72025.3.13.zip","icon": " ","version": "20250313"}
+{"name": "潇洒单线路","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%E5%8D%95%E7%BA%BF%E8%B7%AF2025.3.31.3.zip","icon": " ","version": "2025.3.31.3"},
+{"name": "潇洒单仓","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%E5%A4%9A%E7%BA%BF%E8%B7%AF2025.3.31.3.zip","icon": " ","version": "2025.3.31.3"},
+{"name": "无忧","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A720250324.zip","icon": " ","version": "20250324"},
+{"name": "无忧真心","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A7_%E7%9C%9F%E5%BF%83202503.30.1.zip","icon": " ","version": "20250330.1"}
 ]}
 ]
