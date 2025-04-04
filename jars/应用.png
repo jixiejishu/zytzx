@@ -115,7 +115,7 @@
 {"name": "BBLL","url": "https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/BBLL.png","version": "1.5.2"},
 {"name": "BBLL(网盘）","url": "https://acbox.app/f/MEBvf9/BBLL1.5.2.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/BBLL.png","version": "1.5.2"},
 {"name": "BBLL","url": "https://acbox.app/f/voVEFQ/BBLL_1.4.9_%E9%98%B2%E5%B1%8F%E8%94%BD%E7%89%88-%E9%80%82%E5%90%88%E5%B0%8F%E7%B1%B3%E6%B5%B7%E4%BF%A1.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/BBLL.png","version": "小米海信1.4.9"},
-{"name": "bilibilitv","url": "https://acbox.app/f/1v3Ecm/bilibili_tv_v10_250112.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/bilibilitv.png","version": "v10_250112"}
+{"name": "bilibilitv","url": "https://acbox.app/f/KDeqI5/bilibili%20tv%20v10%20250330.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/bilibilitv.png","version": "v10_250330"}
 ]},
 {"name": "音乐软件(手机版）","list": [
 {"name": "MusicFree","url": "https://github.com/maotoumao/MusicFree/releases/download/v0.5.0/app-arm64-v8a-release.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/musicfree.webp","version": "0.5.0_64位"},
