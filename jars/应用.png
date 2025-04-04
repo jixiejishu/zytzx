@@ -108,8 +108,8 @@
 {"name": "my-tv-0","url": "https://acbox.app/f/yYjwi4/my-tv-0.1.3.8.17-kitkat.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/my-tv-0.png","version": "安卓4.x1.3.8.17"},
 {"name": "my-tv-0","url": "https://acbox.app/f/xPjmSk/my-tv-0_1.3.9.8.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/my-tv-0.png","version": "0.1.3.9.8"},
 {"name": "ourTV","url": "https://acbox.app/f/dVeNFZ/OurTV_3.6.0_android_tv.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/ourTV.png","version": "3.6.6"},
-{"name": "直-电视VIP","url": "https://acbox.app/f/Q0NkhE/%E7%9B%B4-%E7%94%B5%E8%A7%86VIP20241010.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "v20241010"},
-{"name": "直-电视VIP","url": "https://acbox.app/f/gaerTb/VIP20246666%EF%BC%88%E9%98%B2%E9%98%BB%E6%96%AD%EF%BC%89.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "防阻断20241010"}
+{"name": "直电视网盘","url": "https://acbox.app/f/r24oId/%E7%9B%B4-%E7%94%B5%E8%A7%86%E7%A8%B3%E5%AE%9A%E7%89%88v20250323.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "v20250323"},
+{"name": "直电视网盘","url": "https://acbox.app/f/0vm3TM/%E7%9B%B4-%E7%94%B5%E8%A7%86%E9%98%B2%E9%98%BB%E6%96%AD_v20250205.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "v20250205"}
 ]},
 {"name": "bilibiliTV ","list": [
 {"name": "BBLL","url": "https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/BBLL.png","version": "1.5.2"},
