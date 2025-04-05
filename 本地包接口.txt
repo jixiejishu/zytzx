@@ -3,17 +3,15 @@
 {"name": "推荐","list": [
 {"name": " ","url": " ","icon": "https://jihulab.com/fourd/FourD/-/raw/main/莫比乌斯环.jpg","version": " "}
 ]},
-{"name": "杏仁云盘","list": [
-{"name": "奇奇","url": "https://acbox.app/f/Wo1lT9/%E5%A5%87%E5%A5%87%EF%BC%8C20250330.zip","icon": " ","version": "20250330"},
-{"name": "潇洒单线路","url": "https://acbox.app/f/l6XOf4/%E6%BD%87%E6%B4%92%E5%8D%95%E7%BA%BF%E8%B7%AF2025.3.31.3.zip","icon": " ","version": "2025.3.31.3"},
-{"name": "潇洒单仓","url": "https://acbox.app/f/bv16UP/%E6%BD%87%E6%B4%92%E5%A4%9A%E7%BA%BF%E8%B7%AF2025.3.31.3.zip","icon": " ","version": "2025.3.31.3"},
-{"name": "无忧","url": "https://acbox.app/f/RnzZTB/%E6%97%A0%E5%BF%A720250324.zip","icon": " ","version": "20250324"},
-{"name": "无忧真心","url": "https://acbox.app/f/5MGNcr/%E6%97%A0%E5%BF%A7_%E7%9C%9F%E5%BF%83202503.30.1.zip","icon": " ","version": "20250330.1"}
-]},
-{"name": "gitee","list": [
-{"name": "潇洒单线路","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%E5%8D%95%E7%BA%BF%E8%B7%AF2025.3.31.3.zip","icon": " ","version": "2025.3.31.3"},
-{"name": "潇洒单仓","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%BD%87%E6%B4%92%E5%A4%9A%E7%BA%BF%E8%B7%AF2025.3.31.3.zip","icon": " ","version": "2025.3.31.3"},
+{"name": "常用本地包（官方）","list": [
+{"name": "潇洒单线路","url": "https://gitee.com/PizazzXS/another-d/raw/master/%E5%8D%95%E7%BA%BF%E8%B7%AF.zip","icon": " ","version": "同官方"},
+{"name": "潇洒单仓","url": "https://gitee.com/PizazzXS/another-d/raw/master/%E5%A4%9A%E7%BA%BF%E8%B7%AF.zip","icon": " ","version": "同官方"},
 {"name": "无忧","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A720250324.zip","icon": " ","version": "20250324"},
-{"name": "无忧真心","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A7_%E7%9C%9F%E5%BF%83202503.30.1.zip","icon": " ","version": "20250330.1"}
+{"name": "奇奇(自传）","url": "https://www.now61.com/f/X1avc0/%E5%A5%87%E5%A5%87%EF%BC%8C20250403.zip","icon": " ","version": "20250403"}
+]},
+{"name": "常用本地包（备用）","list": [
+{"name": "潇洒单线路","url": "https://gitee.com/jixiejishu/another-d/raw/master/%E5%8D%95%E7%BA%BF%E8%B7%AF.zip","icon": " ","version": "同官方手动更新"},
+{"name": "潇洒单仓","url": "https://gitee.com/jixiejishu/another-d/raw/master/%E5%A4%9A%E7%BA%BF%E8%B7%AF.zip","icon": " ","version": "同官方手动更新"},
+{"name": "无忧","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A720250324.zip","icon": " ","version": "20250324"}
 ]}
 ]
