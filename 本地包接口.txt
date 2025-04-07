@@ -13,7 +13,7 @@
 {"name": "潇洒单线路","url": "https://gitee.com/jixiejishu/another-d/raw/master/%E5%8D%95%E7%BA%BF%E8%B7%AF.zip","icon": " ","version": "同官方手动更新"},
 {"name": "潇洒单仓","url": "https://gitee.com/jixiejishu/another-d/raw/master/%E5%A4%9A%E7%BA%BF%E8%B7%AF.zip","icon": " ","version": "同官方手动更新"},
 {"name": "无忧","url": "https://gitee.com/jixiejishu/tvboxlib/raw/master/bendibao/%E6%97%A0%E5%BF%A720250324.zip","icon": " ","version": "20250324"}
-]}
+]},
 {"name": "常用本地包（六一云）","list": [
 {"name": "奇奇","url": "https://www.now61.com/f/X1avc0/%E5%A5%87%E5%A5%87%EF%BC%8C20250403.zip","icon": " ","version": "20250403"},
 {"name": "潇洒单线路","url": "https://www.now61.com/f/noO3H3/%E6%BD%87%E6%B4%92%E5%8D%95%E7%BA%BF%E8%B7%AF2025.4.5.2.zip","icon": " ","version": "2025.4.5.2"},
