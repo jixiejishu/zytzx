@@ -19,5 +19,5 @@
 {"name": "潇洒单线路","url": "https://www.now61.com/f/noO3H3/%E6%BD%87%E6%B4%92%E5%8D%95%E7%BA%BF%E8%B7%AF2025.4.5.2.zip","icon": " ","version": "2025.4.5.2"},
 {"name": "潇洒单仓","url": "https://www.now61.com/f/dJroFd/%E6%BD%87%E6%B4%92%E5%A4%9A%E7%BA%BF%E8%B7%AF2025.4.5.2.zip","icon": " ","version": "2025.4.5.2"},
 {"name": "无忧","url": "https://www.now61.com/f/Ymk9UJ/%E6%97%A0%E5%BF%A720250324.zip","icon": " ","version": "20250324"}
-]},
+]}
 ]
