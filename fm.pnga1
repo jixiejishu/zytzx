@@ -1,4 +1,4 @@
-//4#肥猫 没有lives
+//4肥猫线路
 //https://123.yy.nxog.top/1/4.php?ou=http://ceshi.xn--z7x900a.com/PandaQ
 
 {
@@ -7,29 +7,41 @@
   "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
   "sites": [
 //1好趣网
-//好趣网道长
+//1.d道长在线版添加 jar
+
+		{
+			"key": "hipy_js_好趣网[播]道长",
+			"name": "好趣网[播](drpy_t3)道长",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/好趣网[播].js"
+		},
+
+ //1.2不良帅线路饭太硬加速添加欧歌jar
+
+
     {
-      "key": "drpy_好趣网",
-      "name": "📺好趣┃直播",
+      "key": "好趣不良帅liu加速",
+      "name": "📺好趣┃直播不良帅liu加速",
       "type": 3,
-      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-      "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/好趣网[播].js"
+      "api": "https://raw.liucn.cc/mygoww/xoxo/main/libs/drpy2.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
+      "ext": "https://raw.liucn.cc/mygoww/xoxo/main/js/好趣网.js"
     },
- //2#不良帅https://github.moeyy.xyz/加速
+
+
     {
-      "key": "drpy_好趣网不良帅",
-      "name": "📺好趣┃直播不良帅",
+      "key": "好趣不良帅jsdelivr",
+      "name": "📺好趣不良帅jsdelivr",
       "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/mygoww/xoxo/main/js/好趣网.js"
-    },
- //2#不良帅欧歌加速
-    {
-      "key": "好趣不良帅欧歌加速",
-      "name": "📺好趣不良帅欧歌加速",
-      "type": 3,
-      "api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
-      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/mygoww/xoxo/main/js/好趣网.js"
+      "api": "https://cdn.jsdelivr.net/gh/mygoww/xoxo@main/libs/drpy2.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
+      "ext": "https://cdn.jsdelivr.net/gh/mygoww/xoxo@main/js/好趣网.js"
     },
 
 
@@ -37,13 +49,15 @@
 
 
 
-//2直播自建
 
+//2直播自建添加jar
+//2.1道长加jar
 		{
 			"key": "直播ghgo加速",
 			"name": "直播ghgo加速",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -55,6 +69,7 @@
 			"name": "直播meyy加速",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -66,6 +81,7 @@
 			"name": "直播刘老备加速",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -77,20 +93,22 @@
 			"name": "直播欧歌加速",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/直播转点播[合].js?type=url&params=./livejs/oujs.txt"
 		},
-
-//直播自建（备）
+//2.1刘老备加jar
+//直播自建（备）加jar
     {
       "key": "直播ghgo加速（备）",
       "name": "直播ghgo加速（备）",
       "playerType": 1,
       "type": 3,
       "api": "https://raw.liucn.cc/box/libs/tv/zb.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
@@ -102,6 +120,7 @@
       "playerType": 1,
       "type": 3,
       "api": "https://raw.liucn.cc/box/libs/tv/zb.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
@@ -113,6 +132,7 @@
       "playerType": 1,
       "type": 3,
       "api": "https://raw.liucn.cc/box/libs/tv/zb.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
@@ -124,17 +144,12 @@
       "playerType": 1,
       "type": 3,
       "api": "https://raw.liucn.cc/box/libs/tv/zb.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./livejs/oujs.txt"
     },
-
-
-
-
-
-
 
 //3.网络搜集直播转点播
 
@@ -142,10 +157,11 @@
 
 //3.d道长
 		{
-			"key": "hipy_js_直播转点播[合]",
-			"name": "直播转点播[合](drpy_t3)",
+			"key": "hipy_js_直播转点播[合]道长",
+			"name": "直播转点播[合](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -155,10 +171,11 @@
 
 
 		{
-			"key": "hipy_js_广播迷FM[听]",
+			"key": "hipy_js_广播迷FM[听]道长",
 			"name": "广播迷FM[听](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -166,19 +183,29 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/广播迷FM[听].js"
 		},
 
-
+//3.2不良帅线路  修改代理天假jar
+    {
+      "key": " drpy_蜻蜓fm不良帅",
+      "name": "📻蜻蜓┃FM不良帅",
+      "type": 3,
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/mygoww/xoxo/main/js/蜻蜓FM.js"
+    },
 
 
 
 
 
 //4.优爱腾 
-//潇洒5
+//4.5潇洒线路添加jar
+
     {
       "key": "腾讯视频潇洒",
       "name": "腾讯｜视频潇洒",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXDM.js"
     },
     {
@@ -186,6 +213,7 @@
       "name": "优酷｜视频潇洒",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/YKDM.js"
     },
     {
@@ -193,6 +221,7 @@
       "name": "芒果｜视频潇洒",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/MGDM.js"
     },
     {
@@ -200,9 +229,11 @@
       "name": "爱奇艺｜视频潇洒",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/AQYDM.js"
     },
-//青龙线路19
+
+//4.19青龙线路自带jar
 
 {
 "key":"腾讯弹幕青龙",
@@ -230,29 +261,21 @@
 },
 {
 "key":"爱奇艺弹幕青龙",
-"name":"👑爱奇艺青龙",
+"name":"👑爱奇艺",
 "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
 "type":3,
 "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
 "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/爱奇艺弹幕.js"
 },
 
-//4.优爱腾
+//4.d道长在线版添加jar
 
-//4.4#肥猫优爱腾
-
-    {
-      "key": "csp_SP360肥猫",
-      "name": "📺┃360┃官源肥猫",
-      "type": 3,
-      "api": "csp_SP360"
-    },
-//4.d道长
 		{
-			"key": "hipy_js_360影视[官]",
-			"name": "360影视[官](drpy_t3)",
+			"key": "hipy_js_360影视[官]道长",
+			"name": "360影视[官](drpy_t3)道长",
 			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"api": "./drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -260,10 +283,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/360影视[官].js"
 		},
 		{
-			"key": "hipy_js_菜狗[官]",
-			"name": "菜狗[官](drpy_t3)",
+			"key": "hipy_js_菜狗[官]道长",
+			"name": "菜狗[官](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -271,10 +295,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/菜狗[官].js"
 		},
 		{
-			"key": "hipy_js_奇珍异兽[官]",
-			"name": "奇珍异兽[官](drpy_t3)",
+			"key": "hipy_js_奇珍异兽[官]道长",
+			"name": "奇珍异兽[官](drpy_t3)道长",
 			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"api": "./drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -282,10 +307,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/奇珍异兽[官].js"
 		},
 		{
-			"key": "hipy_js_优酷[官]",
-			"name": "优酷[官](drpy_t3)",
+			"key": "hipy_js_优酷[官]道长",
+			"name": "优酷[官](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -293,10 +319,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/优酷[官].js"
 		},
 		{
-			"key": "hipy_js_腾云驾雾[官]",
-			"name": "腾云驾雾[官](drpy_t3)",
+			"key": "hipy_js_腾云驾雾[官]道长",
+			"name": "腾云驾雾[官](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -304,10 +331,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/腾云驾雾[官].js"
 		},
 		{
-			"key": "hipy_js_百忙无果[官]",
-			"name": "百忙无果[官](drpy_t3)",
+			"key": "hipy_js_百忙无果[官]道长",
+			"name": "百忙无果[官](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -317,29 +345,9 @@
 
 
 
-
-
-
 //5.哔哩哔哩
-//5.4#肥猫哔哩哔哩
-    {
-      "key": "csp_Bili肥猫",
-      "name": "🅱┃️哔哩┃合集肥猫",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "ext": {
-        "json": "http://uz.xn--z7x900a.com/bili.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
 
-
-//盒子迷线路3
+//5.3盒子迷线路
     {
       "key": "哔哩哔哩盒子迷",
       "name": "哔哩┃分类盒子迷",
@@ -352,7 +360,7 @@
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/58cbbf5395d4468cb4180b57c2834102.jpg"
     },
-//多多线路12# 主jar作为 api有效
+//5.12多多线路 添加主jar 有效
     {
       "key": "哔哩合集多多",
       "name": "🅱️┃哔哩┃合集多多",
@@ -371,7 +379,26 @@
       },
       "timeout": 10
     },
-//摸鱼18添加主jar
+//5.16菜妮丝线路
+    {
+      "key": "哔哩哔哩菜妮丝",
+      "name": "哔哩┃哔哩菜妮丝",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://tv.菜妮丝.top/json/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
+      },
+      "jar": "https://tv.菜妮丝.top/jar/fm0108.jar;md5;d6377af2846bf4ae821a802907d89236"
+    },
+//5.18摸鱼线路 添加主jar有效
     {
       "key": "Bili摸鱼",
       "name": "🆙哔哩┃合集┃弹幕摸鱼",
@@ -389,7 +416,7 @@
         "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
       }
     },
-//青龙19
+//5.19青龙线路
 {
 "key":"bili青龙",
 "name":"🅱️哔哩合集青龙",
@@ -408,13 +435,13 @@
 "json":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557872081/bili001.txt"
 }
 },
-
-//南风线路 20#增加jar 有效
+//5.20南风线路 添加 主jar 有效
     {
       "key": "哔哩南风",
       "name": "🅱️哔哩哔哩南风",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -470,10 +497,10 @@
 
 
 
-//5.og 欧歌家庭(模拟器可能不支持)
-
-{"key": "合集","name": "💋哔哩┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/合集.json"}, 
-{"key": "美食","name": "🌈美食┃哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/美食.json"},
+//5.o欧歌家庭 添加jar
+{"key": "软件欧歌","name": "🅰️软件┃教程欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/软件教程.json"}, 
+{"key": "合集欧歌","name": "💋哔哩┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/合集.json"}, 
+{"key": "美食欧歌","name": "🌈美食┃哔哩欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/美食.json"},
 
 
 
@@ -482,20 +509,22 @@
 //6.0戏曲相声小品音乐
 
 //6.og 欧歌家庭
-{"key": "演唱会","name": "🅰️演唱会┃哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/演唱会.json"}, 
-{"key": "戏曲","name": "🅰️戏曲┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/戏曲合集.json"},
-{"key": "MV","name": "🌈歌曲┃哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/歌曲MV.json"},
-//1.1#饭太硬音乐
+{"key": "演唱会欧歌","name": "🅰️演唱会┃哔哩欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/演唱会.json"}, 
+{"key": "戏曲欧歌","name": "🅰️戏曲┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/戏曲合集.json"},
+{"key": "MV欧歌","name": "🌈歌曲┃哔哩欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/歌曲MV.json"},
+//6.1#饭太硬音乐 添加jar
     {
       "key": "酷奇饭太硬",
       "name": "🎤酷奇┃MV饭太硬",
       "type": 3,
       "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744071259477/f0408.txt;md5;c955190455fa33981dbe0322829d6a43",
       "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
+      "timeout": 10,
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -519,7 +548,7 @@
     },
 
 
-//盒子迷线路3
+//6.3盒子迷线路
     {
       "key": "相声小品盒子迷",
       "name": "相声┃小品盒子迷",
@@ -531,7 +560,19 @@
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
     },
-//肥猫线路4 添加jar
+
+    {
+      "key": "戏曲盒子迷",
+      "name": "戏曲┃大全盒子迷",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg"
+    },
+//6.4肥猫线路 添加主jar添加欧歌jar
     {
       "key": "酷狗肥猫",
       "name": "🐾┃酷狗┃音乐肥猫",
@@ -553,23 +594,29 @@
       "name": "🎤┃酷奇┃MV肥猫",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "searchable": 0,
       "quickSearch": 0,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js"
     },
-//肥猫线路4 添加jar无效
+//6.8王二线路
     {
-      "key": "MTV肥猫",
-      "name": "🎧┃明星┃MV肥猫",
+      "key": "biliych王二小",
+      "name": "🅱哔哔┃歌曲🅱王二小",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744005356627/wex.txt;md5;37a78aca95921d7a4c4f99e980aba746",
       "searchable": 0,
-      "quickSearch": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557798499/bilisong.txt"
+      }
     },
-
-//王二线路8
-//添加 jar 有效果
     {
       "key": "Wexpsmp3王小二",
       "name": "🎤随身┃评书王小二🎤",
@@ -579,7 +626,7 @@
       "searchable": 1,
       "changeable": 0
     },
-//摸鱼18
+//6.18摸鱼线路
     {
       "key": "Biliych摸鱼",
       "name": "🆙哔哩┃歌曲┃弹幕摸鱼",
@@ -612,7 +659,8 @@
       },
       "ext": "w7TCmsOuw6LDqlpqUFfDlOWHuOmFouaQnuWRnV/lhpzkvYflkKfCs+W/pOipgOi2vea8iuesjMKNV1zCmcKaw57DnsOdwqXCqcKgwqTDhMOYw7PCoMK0U1fCp8Klw7LDnMKwwq/CsFrCrQ=="
     },
-//青龙线路19
+//6.19青龙线路
+
 {
 "key":"戏曲青龙",
 "name":"🅰️广东潮剧青龙",
@@ -632,7 +680,7 @@
 }
 },
 {
-"key":"csp_XYQHiker_戏曲多多",
+"key":"csp_XYQHiker_戏曲多多青龙",
 "name":"🅱️广东潮剧青龙",
 "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/custom_spider.jar",
 "type":3,
@@ -646,8 +694,26 @@
 ]
 },
 
+{
+"key":"biliych青龙",
+"name":"🅱️哔哩歌曲青龙",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/wex.jar",
+"type":3,
+"api":"csp_BiliGuard",
+"searchable":0,
+"quickSearch":1,
+"changeable":0,
+"filterable":1,
+"style":{
+"type":"rect",
+"ratio":1.433
+},
+"ext":{
+"json":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557798499/bilisong.txt"
+}
+},
 
-//南风线路20 添加 jar 有效
+//6.20 南风线路  添加 jar 有效
 
     {
       "key": "戏曲南风",
@@ -683,12 +749,14 @@
         ]
       }
     },
-//6.d道长
+
+//6.d 道长在线 添加jar
 		{
-			"key": "hipy_js_相声随身听[听]",
-			"name": "相声随身听[听](drpy_t3)",
+			"key": "hipy_js_相声随身听[听]道长",
+			"name": "相声随身听[听](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -702,37 +770,7 @@
 
 
 //7体育
-//7.4#肥猫体育
-    {
-      "key": "看球肥猫",
-      "name": "⚾┃看球┃直播肥猫",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "drpy_js_310直播肥猫",
-      "name": "🏀┃体育┃直播肥猫",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      },
-      "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
-    },
 
-//7.og 欧歌家庭(模拟器可能不支持)
-//球类
-{"key": "球类","name": "⚽️球类┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球类合集.json"}, 
-{"key": "球星","name": "⚽️球星┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球星合集.json"},  
 //7.1#饭太硬体育
     {
       "key": "926",
@@ -788,7 +826,7 @@
       "changeable": 0
     },
 
-//王小二放牛线路8 添加jar有效
+//7.8王小二放牛线路 添加jar有效
     {
       "key": "1直播王小二",
       "name": "🌐一直┃体育🌐王小二",
@@ -802,24 +840,32 @@
       }
     },
 
+//7.o欧歌 添加 jar
+{"key":"88看球","name":"💋88｜看球欧歌","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","style":{"type":"list"},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/88看球.js"},
+{"key": "球类","name": "⚽️球类┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球类合集.json"}, 
+{"key": "球星","name": "⚽️球星┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球星合集.json"},  
 
-//7.d道长
+
+//7.d道长在线 添加 jar
 		{
-			"key": "hipy_js_01看球[球]",
-			"name": "01看球[球](drpy_t3)",
+			"key": "hipy_js_01看球[球]道长",
+			"name": "01看球[球](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/01看球[球].js"
 		},
+
 		{
-			"key": "hipy_js_88看球[球]",
-			"name": "88看球[球](drpy_t3)",
+			"key": "hipy_js_88看球[球]道长",
+			"name": "88看球[球](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -827,10 +873,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/88看球[球].js"
 		},
 		{
-			"key": "hipy_js_310直播[球]",
-			"name": "310直播[球](drpy_t3)",
+			"key": "hipy_js_310直播[球]道长",
+			"name": "310直播[球](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -838,10 +885,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/310直播[球].js"
 		},
 		{
-			"key": "hipy_js_360吧[球]",
-			"name": "360吧[球](drpy_t3)",
+			"key": "hipy_js_360吧[球]道长",
+			"name": "360吧[球](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -849,18 +897,17 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/360吧[球].js"
 		},
 		{
-			"key": "hipy_js_926tv[球]",
-			"name": "926tv[球](drpy_t3)",
+			"key": "hipy_js_926tv[球]道长",
+			"name": "926tv[球](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/926tv[球].js"
 		},
-
-
 
 
 
@@ -875,6 +922,7 @@
       "name": "🎧有声┃小说饭太硬",
       "type": 3,
       "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
       "style": {
         "type": "rect",
@@ -884,16 +932,25 @@
       "quickSearch": 0,
       "changeable": 0
     },
-//不良帅线路2  修改代理
-    {
-      "key": " drpy_蜻蜓fm",
-      "name": "📻蜻蜓┃FM",
+
+//8.4肥猫线路 添加 jar
+   {
+      "key": "csp_YouShengBook",
+      "name": "📚┃六月┃听书肥猫",
       "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/mygoww/xoxo/main/js/蜻蜓FM.js"
+      "playerType": "2",
+      "api": "csp_TingBook",
+      " jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
     },
 
-//小米线路7 添加 jar 有效
+
+
+//8.7小米线路 添加 jar 有效
     {
       "key": "听书小米",
       "name": "📚听书┃BOOK小米",
@@ -904,7 +961,8 @@
       "ext": "http://www.6yueting.com"
     },
 
-//王小二线路8  添加 jar 有效
+
+//8.8王二线路 添加 jar 有效
     {
       "key": "Wexlaobaitingshu王小二",
       "name": "🎃‍白兔┃听书🎃王小二",
@@ -932,12 +990,13 @@
       "searchable": 1,
       "changeable": 1
     },
-//摸鱼线路12
+//8.18摸鱼线路 添加 jar
     {
-      "key": "有声小说js",
-      "name": "📚有声┃小说┃娱乐",
+      "key": "有声小说js摸鱼",
+      "name": "📚有声┃小说┃娱乐摸鱼",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
       "style": {
         "type": "rect",
@@ -947,39 +1006,28 @@
       "quickSearch": 0,
       "changeable": 0
     },
-//南风线路20
 
-    {
-      "key": "有声小说吧",
-      "name": "📚有声小说吧",
-      "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/js/lib/drpy2.min.js",
-      "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/js/有声小说吧.js"
-    },
 
-//8.d道长
-
+//8.d 道长在线 添加 jar
 		{
-			"key": "hipy_js_老白故事[听]",
-			"name": "老白故事[听](drpy_t3)道长",
+			"key": "hipy_js_相声随身听[听] 道长",
+			"name": "相声随身听[听](drpy_t3) 道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/老白故事[听].js"
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/相声随身听[听].js"
 		},
 
 		{
-			"key": "hipy_js_爱上你听书网[听]",
+			"key": "hipy_js_爱上你听书网[听] 道长",
 			"name": "爱上你听书网[听](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -987,22 +1035,35 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/爱上你听书网[听].js"
 		},
 		{
-			"key": "hipy_js_博看听书[听]",
+			"key": "hipy_js_博看听书[听] 道长",
 			"name": "博看听书[听](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/博看听书[听].js"
 		},
-
 		{
-			"key": "hipy_js_海洋听书[听]",
-			"name": "海洋听书[听](drpy_t3)",
+			"key": "hipy_js_广播迷FM[听] 道长",
+			"name": "广播迷FM[听](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/广播迷FM[听].js"
+		},
+		{
+			"key": "hipy_js_海洋听书[听] 道长",
+			"name": "海洋听书[听](drpy_t3) 道长",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -1010,10 +1071,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/海洋听书[听].js"
 		},
 		{
-			"key": "hipy_js_酷我听书[听]",
+			"key": "hipy_js_酷我听书[听] 道长",
 			"name": "酷我听书[听](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -1021,10 +1083,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/酷我听书[听].js"
 		},
 		{
-			"key": "hipy_js_六月听书[听]",
+			"key": "hipy_js_六月听书[听] 道长",
 			"name": "六月听书[听](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -1032,10 +1095,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/六月听书[听].js"
 		},
 		{
-			"key": "hipy_js_有声听书网[听]",
+			"key": "hipy_js_有声听书网[听] 道长",
 			"name": "有声听书网[听](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -1043,10 +1107,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/有声听书网[听].js"
 		},
 		{
-			"key": "hipy_js_有声小说吧[听]",
+			"key": "hipy_js_有声小说吧[听] 道长",
 			"name": "有声小说吧[听](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -1054,10 +1119,11 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/有声小说吧[听].js"
 		},
 		{
-			"key": "hipy_js_中华听书网[听]",
+			"key": "hipy_js_中华听书网[听] 道长",
 			"name": "中华听书网[听](drpy_t3)道长",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -1067,16 +1133,12 @@
 
 
 
-
-
-
-
 //9应用商店
 
 //带有加速
       {
             "key": "应用加速",
-            "name": "🏬应用加速codeberg(仅影视_Fongmi)",
+            "name": "🏬应用加速(仅影视_Fongmi)",
             "type": 3,
             "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
             "api": "csp_Market",
@@ -1316,6 +1378,7 @@
 //饭太硬线路提取，更新比较慢
 //项目地址：https://github.com//MemoryCollection/IPTV
 {"name":"饭太硬MemoryCollection","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt","logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"}
- 
+
+
   ]
 }
