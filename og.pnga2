@@ -144,6 +144,13 @@
       "ext": "https://cdn.jsdelivr.net/gh/mygoww/xoxo@main/js/好趣网.js"
     },
 
+    {
+      "key": "好趣不良帅欧歌加速",
+      "name": "📺好趣不良帅欧歌加速",
+      "type": 3,
+      "api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/mygoww/xoxo/main/js/好趣网.js"
+    },
 
 
 
@@ -1071,6 +1078,18 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+//8.20 南风线路
+    {
+      "key": "有声小说吧南风",
+      "name": "📚有声小说吧南风",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/js/lib/drpy2.min.js",
+      "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/js/有声小说吧.js"
     },
 
 
