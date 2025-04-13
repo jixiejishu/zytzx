@@ -113,7 +113,7 @@
 ]},
 {"name": "bilibiliTV ","list": [
 {"name": "BBLL","url": "https://ghfast.top/https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/BBLL.png","version": "1.5.2"},
-{"name": "BBLL(网盘）","url": "https://www.now61.com/f/Am5Bcg/BBLL1.5.2.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/BBLL.png","version": "1.5.2"},
+{"name": "BBLL(网盘）","url": "https://www.now61.com/f/EzYJC7/BBLL_1.5.2_3.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/BBLL.png","version": "1.5.2_3修复版"},
 {"name": "BBLL","url": "https://www.now61.com/f/VbVGT5/BBLL_1.4.9_%E9%98%B2%E5%B1%8F%E8%94%BD%E7%89%88-%E9%80%82%E5%90%88%E5%B0%8F%E7%B1%B3%E6%B5%B7%E4%BF%A1.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/BBLL.png","version": "小米海信1.4.9"},
 {"name": "bilibilitv","url": "https://www.now61.com/f/erVAfV/bilibili%20tv%20v10%20250330.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/bilibilitv/bilibilitv.png","version": "v10_250330"}
 ]},
@@ -146,7 +146,10 @@
 {"name": "x-plore","url": "https://www.now61.com/f/ygbzIe/x-plore_3_89.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/x-plore.png","version": "3_89安卓4.03"},
 {"name": "x-plore","url": "https://www.now61.com/f/RBGKs4/x-plore_4_30.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/x-plore.png","version": "4.30安卓5.0"},
 {"name": "x-plore","url": "https://www.now61.com/f/gJGWHL/x-plore_v4.39.00.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/x-plore.png","version": "4.39"},
-{"name": "应用管家","url": "https://www.now61.com/f/LB7mFz/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6v1.5.9.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/应用管家.png","version": "v1.5.9"},
+{"name": "应用管家","url": "https://www.now61.com/f/Za9ECb/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6v1.6.0.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/应用管家.png","version": "v1.6.0"},
+{"name": "应用管家","url": "https://www.now61.com/f/5mJmtr/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6v1.6.0-%E5%85%AC%E7%AD%BE%E7%89%88%28x86%29.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/应用管家.png","version": "x86v1.6.0"},
+{"name": "应用管家","url": "https://www.now61.com/f/9oRbfW/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6v1.6.0-%E5%85%AC%E7%AD%BEUID%E7%89%88%28%E5%8E%9F%E7%94%9F%E5%AE%89%E5%8D%93%29.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/应用管家.png","version": "原生v1.6.0"},
+{"name": "应用管家","url": "https://www.now61.com/f/5mJmtr/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6v1.6.0-%E5%85%AC%E7%AD%BE%E7%89%88%28x86%29.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/应用管家.png","version": "公签v1.6.0"},
 {"name": "Apktool_M","url": "https://www.now61.com/f/3poNUK/Apktool_M_v2.4.0-250212(2025021201).apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/Apktool_M.png","version": "v2.4.0-250212"},
 {"name": "Total Commander","url": "https://www.now61.com/f/wDmYIa/tcandroid350d-armeabi-v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/Total-Commander.png","version": "3.5.0_32位"},
 {"name": "Total Commander","url": "https://www.now61.com/f/KvLRsv/tcandroid350d-arm64-v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tools/Total-Commander.png","version": "3.5.0_64位"},
