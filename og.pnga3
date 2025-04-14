@@ -307,28 +307,28 @@
       "name": "腾讯｜视频潇洒",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXDM.js"
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"
     },
     {
       "key": "优酷视频潇洒",
       "name": "优酷｜视频潇洒",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/YKDM.js"
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/YKSP.js"
     },
     {
       "key": "芒果视频潇洒",
       "name": "芒果｜视频潇洒",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/MGDM.js"
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/MGSP.js"
     },
     {
       "key": "爱奇艺潇洒",
       "name": "爱奇艺｜视频潇洒",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/AQYDM.js"
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/AQY.js"
     },
 //4.19青龙线路自带jar
 
