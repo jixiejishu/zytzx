@@ -115,37 +115,10 @@
 "sites": [
 //1好趣网
 
-
- //1.2不良帅线路饭太硬加速添加欧歌jar
-
-    {
-      "key": "好趣不良帅欧歌加速",
-      "name": "📺好趣不良帅欧歌加速",
-      "type": 3,
-      "api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
-      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/mygoww/xoxo/main/js/好趣网.js"
-    },
-
-    {
-      "key": "好趣不良帅liu加速",
-      "name": "📺好趣┃直播不良帅liu",
-      "type": 3,
-      "api": "https://raw.liucn.cc/mygoww/xoxo/main/libs/drpy2.min.js",
-      "ext": "https://raw.liucn.cc/mygoww/xoxo/main/js/好趣网.js"
-    },
+//由于js停更经常失效暂时删除站点。
 
 
-    {
-      "key": "好趣不良帅jsdelivr",
-      "name": "📺好趣不良帅jsdelivr",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/mygoww/xoxo@main/libs/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/mygoww/xoxo@main/js/好趣网.js"
-    },
-
-
-
-
+//2直播自建添加jar
 
 
 
