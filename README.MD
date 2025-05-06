@@ -27,7 +27,7 @@ og.pnga1=欧歌
 第二步,在“配置中心”中按提示扫码登录或者输入相关资料。  
 第三步,在"我的｜阿里网盘","我的｜UC网盘","我的｜夸克网盘",中打开APK 转存的默认一般在分享里面。  
 
-************************************************************************    
+
 
 
 ************************************************************************    
@@ -106,59 +106,6 @@ file://TVBoxOSC/本地仓/影视.txt
 
 
 
-## 无忧地包    
-
-单线路：  
-接口配置:   
-************************************************************************  
-纯本地接口:  
-clan://localhost/TVBox/lib/无忧TV.json  
-clan://localhost/TVBox/lib/无忧.json  
-clan://localhost/TVBox/lib/无忧ali.json  
-clan://localhost/TVBox/lib/弯弯.json  
-clan://localhost/TVBox/Hk/XYQTVBox.txt  
-clan://localhost/TVBox/JS/js.json  
-clan://localhost/TVBox/py/py.txt  
-clan://localhost/TVBox/lib/动漫.txt  
-clan://localhost/TVBox/lib/云星家庭.json  
-clan://localhost/TVBox/lib/肥猫.txt  
-clan://localhost/TVBox/lib/无名1.txt  
-clan://localhost/TVBox/lib/夜魔.txt  
-clan://localhost/TVBox/lib/cms.txt  
-
-***************************************************************************  
-半本地接口:   
-
-clan://localhost/TVBox/lib/运输车.txt  
-clan://localhost/TVBox/lib/菜妮丝.txt  
-clan://localhost/TVBox/lib/巧计.txt  
-clan://localhost/TVBox/lib/唐三.txt  
-clan://localhost/TVBox/lib/俊佬.txt  
-clan://localhost/TVBox/lib/老刘备.json  
-clan://localhost/TVBox/lib/多多.txt  
-clan://localhost/TVBox/lib/南风XC.json  
-clan://localhost/TVBox/lib/月光.json  
-clan://localhost/TVBox/lib/分享者.json  
-clan://localhost/TVBox/lib/饭太硬.txt  
-clan://localhost/TVBox/lib/小马.txt  
-
-
-
-*****************************************************************************  
-
-单仓（多线路）配置接口:   
-
-影视仓等：
- 本地单仓 (备用): clan://localhost/TVBox/本地仓库.json   
- 在线单仓 (备用):  clan://localhost/TVBox/lib/zx.json   
-
-影视、OK影视等：  
- 本地单仓 (备用):  file://TVBox/lib/本地仓库.json    
- 在线单仓 (备用):  file://TVBox/lib/zx.json   
-
-多仓库配置接口：
-❤️本地+在线多仓 (优选):  clan://localhost/TVBox/lib/ksck.json   
-
 *****************************************************************************  
 ##  网盘资源  
 潇洒网盘    
@@ -175,10 +122,10 @@ UC盘：[https://drive.uc.cn/s/01bc89c897034](https://drive.uc.cn/s/01bc89c89703
 地址1（UC）：[https://drive.uc.cn/s/8efe230949314#/list/share](https://drive.uc.cn/s/8efe230949314#/list/share)    
 地址2（迅雷）:[https://pan.xunlei.com/s/VO4KPd68xHazX9u1VNQNsCqpA1?pwd=bdnn](https://pan.xunlei.com/s/VO4KPd68xHazX9u1VNQNsCqpA1?pwd=bdnn)   
 
-影视仓下载地址   
+影视仓下载地址     
 夸克网盘    
 [https://pan.quark.cn/s/61d324167c07](https://pan.quark.cn/s/61d324167c07)    
-迅雷网盘（很久不更新）    
+迅雷网盘   
 [https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs#](https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs#)    
 蓝奏云（很久不更新）   
 [https://wwtc.lanzouq.com/b0aja4qoj](https://wwtc.lanzouq.com/b0aja4qoj)    
