@@ -45,9 +45,8 @@ https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads
 codeberg接口：  
 https://codeberg.org/jixiejishu/zytzx/raw/branch/main/og.pnga1   
 
-gitlab:   
-https://gitlab.com/jixiejishu/zytzx/-/raw/main/og.pnga1     
-
+六一云：
+https://www.now61.com/f/kqj0cy/og1.txt
 
 
 ************************************************************************    
@@ -65,8 +64,8 @@ https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads
 codeberg接口：  
 https://codeberg.org/jixiejishu/zytzx/raw/branch/main/nf.pnga1    
 
-gitlab:   
-https://gitlab.com/jixiejishu/zytzx/-/raw/main/nf.pnga1     
+六一云：
+https://www.now61.com/f/YLPpfJ/nf1.txt
 
 
 ************************************************************************    
