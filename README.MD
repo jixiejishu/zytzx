@@ -121,11 +121,11 @@ UC盘：[https://drive.uc.cn/s/01bc89c897034](https://drive.uc.cn/s/01bc89c89703
 地址1（UC）：[https://drive.uc.cn/s/8efe230949314#/list/share](https://drive.uc.cn/s/8efe230949314#/list/share)    
 地址2（迅雷）:[https://pan.xunlei.com/s/VO4KPd68xHazX9u1VNQNsCqpA1?pwd=bdnn](https://pan.xunlei.com/s/VO4KPd68xHazX9u1VNQNsCqpA1?pwd=bdnn)   
 
-影视仓下载地址     
+
+影视仓下载地址   
+UC网盘（上传下载不限速）     
+[https://drive.uc.cn/s/b437317346a14](https://drive.uc.cn/s/b437317346a14)    
+迅雷网盘 
+[https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs#](https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs#)    
 夸克网盘    
 [https://pan.quark.cn/s/61d324167c07](https://pan.quark.cn/s/61d324167c07)    
-迅雷网盘   
-[https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs#](https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs#)    
-蓝奏云（很久不更新）   
-[https://wwtc.lanzouq.com/b0aja4qoj](https://wwtc.lanzouq.com/b0aja4qoj)    
-提取码 2615    
