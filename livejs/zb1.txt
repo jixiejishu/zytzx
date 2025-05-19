@@ -1,6 +1,6 @@
 [
 
-{"name":"欧歌tv","url": " https://tv.nxog.top/m//tv/"},
+{"name":"欧歌tv","url": " https://tv.nxog.top/m/tv/?ou=207"},
 
 {"name":"潇洒txt","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt"},
 {"name":"潇洒m3u","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u"},
