@@ -1,6 +1,7 @@
 [
+{"name":"欧歌m3u","url": "https://ghfast.top/https://raw.githubusercontent.com/ouhaibo1980/iptv-api/refs/heads/master/output/result.m3u"},
+{"name":"欧歌txt","url": "https://ghfast.top/https://raw.githubusercontent.com/ouhaibo1980/iptv-api/refs/heads/master/output/result.txt"},
 
-{"name":"欧歌tv","url": "https://tv.nxog.top/m/tv/?ou=207"},
 
 {"name":"潇洒txt","url": "https://ghfast.top/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt"},
 {"name":"潇洒m3u","url": "https://ghfast.top/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u"},
