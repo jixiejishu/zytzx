@@ -6,13 +6,14 @@
     "sites": [
 
 
-
-
-
 //tvboxzb
 //{"key":"lf_js_lf_live","name":"电视 | 直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/t%26Slive.txt"},
 //本地
-{"key":"lf_js_lf_live","name":"电视 | 直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./t%26Slive.txt"},
+//{"key":"lf_js_lf_live","name":"电视 | 直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./t%26Slive.txt"},
+//zytzx
+{"key":"lf_js_lf_live","name":"电视 | 直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/master/t%26Slive.txt"},
+
+
 
 {"key":"drpy_js_有声绘本网","name":"少儿 | 有声绘本[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/有声绘本网.js"},
 {"key":"drpy_js_我的哔哩","name":"弹幕 | 哔哩合集[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/我的哔哩.js"},
