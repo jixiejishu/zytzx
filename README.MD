@@ -10,19 +10,19 @@ https://github.com/jixiejishu/tvboxzb
 ## 接口地址：
 github接口：    
 原地址：（需要挂载加速平台使用。）   
-https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zytzx.json  
+https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xszbzx.json  
 
 
 下面是加上加速地址，可以直接使用：   
-https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zytzx.json  
-https://v4.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zytzx.json  
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zytzx.json  
-https://cdn.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zytzx.json  
-https://axisnow.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zytzx.json  
+https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xszbzx.json  
+https://v4.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xszbzx.json  
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xszbzx.json  
+https://cdn.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xszbzx.json    
+https://axisnow.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/xszbzx.json    
 
 
 gitlab:
-https://gitlab.com/jixiejishu/zytzx/-/raw/main/zytzx.json    
+https://gitlab.com/jixiejishu/zytzx/-/raw/main/xszbzx.json    
 
 
 
