@@ -1,0 +1,59 @@
+
+#裤佬
+https://live.445569.xyz/live.m3u
+
+
+
+#Guowin txt 
+https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt
+#Guowin m3u  
+https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
+#Guowin txt 备用
+https://gh.xxooo.cf/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt
+#Guowin m3u  备用
+https://gh.xxooo.cf/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
+#Guowin txt jsdelivr 
+https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt
+#Guowin m3u jsdelivr 
+https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
+
+
+
+
+
+#kakaxiipv4 2小时
+http://kakaxi.indevs.in/ipv4.txt
+#kakaxiipv4  4小时
+http://kakaxi.indevs.in/iptv.txt
+
+
+
+
+
+#vbskycnipv4txt
+https://live.zbds.top/tv/iptv4.txt
+#vbskycnipv4m3u
+https://live.zbds.top/tv/iptv4.m3u
+
+
+#ghgo加速github
+#qingtingmy
+https://gh-proxy.org/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
+#qingtingmyq
+https://gh-proxy.org/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/myq.txt
+#qingtingmy备用
+https://gh.xxooo.cf///https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
+#qingtingmyq备用
+https://gh.xxooo.cf///https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/myq.txt
+#qingtingmy jsdelivr 
+https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/iptv-auto-update@main/my.txt
+#qingtingmyq  jsdelivr 
+https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/iptv-auto-update@main/myq.txt
+
+
+#咪咕
+https://gh-proxy.org/https://raw.githubusercontent.com/ioptu/migu_video/refs/heads/main/migu.m3u
+#咪咕备用
+https://gh.xxooo.cf///https://raw.githubusercontent.com/ioptu/migu_video/refs/heads/main/migu.m3u
+#咪咕jsdelivr 
+https://cdn.jsdelivr.net/gh/ioptu/migu_video@main/migu.m3u
