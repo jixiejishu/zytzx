@@ -20,8 +20,6 @@ https://v6.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/
 https://cdn.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zytzx.json  
 https://axisnow.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zytzx/refs/heads/main/zytzx.json  
 
-codeberg接口：
-https://codeberg.org/jixiejishu/zytzx/raw/branch/main/zytzx.json    
 
 gitlab:
 https://gitlab.com/jixiejishu/zytzx/-/raw/main/zytzx.json    
