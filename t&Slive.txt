@@ -51,6 +51,14 @@ https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/iptv-auto-update@main/my.txt
 https://cdn.jsdelivr.net/gh/qingtingjjjjjjj/iptv-auto-update@main/myq.txt
 
 
+#maflya
+https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u
+#maflya备用
+https://gh.xxooo.cf///https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u
+#maflya jsdelivr 
+https://cdn.jsdelivr.net/gh/mhmdxahmd/mafly@main/MAfly1/mafly.m3u
+
+
 #咪咕
 https://gh-proxy.org/https://raw.githubusercontent.com/ioptu/migu_video/refs/heads/main/migu.m3u
 #咪咕备用
