@@ -5,55 +5,6 @@
     "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
     "sites": [
 
-//tvboxzb
-//{"key":"lf_js_lf_live","name":"电视 | 直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/tvboxzb/refs/heads/master/t%26Slive.txt"},
-//本地
-{"key":"lf_js_lf_live","name":"电视 | 直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./t%26Slive.txt"},
-
-{"key":"drpy_js_有声绘本网","name":"少儿 | 有声绘本[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/有声绘本网.js"},
-{"key":"drpy_js_我的哔哩","name":"弹幕 | 哔哩合集[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/我的哔哩.js"},
-{"key":"drpy_js_哔哩直播","name":"弹幕 | 哔哩直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/哔哩直播.js"},
-{"key":"drpy_js_哔哩影视","name":"弹幕 | 哔哩影视[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/哔哩影视.js"},
-{"key":"drpy_js_JustLive","name":"弹幕 | JustLive[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/JustLive.js"},
-{"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/斗鱼直播.js"},
-{"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/虎牙直播.js"},
-{"key":"drpy_js_310直播","name":"体育 | 310直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/310直播.js"},
-{"key":"drpy_js_88看球","name":"体育 | 88看球[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/88看球.js"},
-{"key":"drpy_js_JRKAN直播","name":"体育 | JRKAN直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/JRKAN直播.js"},
-{"key":"drpy_js_抓饭体育","name":"体育 | 抓饭体育[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/抓饭体育.js"},
-{"key":"drpy_js_好趣网","name":"电视 | 好趣网[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.333},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/好趣网.js"},
-{"key":"drpy_js_相声随身听","name":"相声 | 相声随身听[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/相声随身听.js"},
-{"key":"drpy_js_评书随身听","name":"评书 | 评书随身听[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/评书随身听.js"},
-
-{"key":"drpy_js_A8音乐","name":"音频 | A8音乐[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/A8音乐.js"},
-{"key":"drpy_js_DJ音乐","name":"音频 | DJ音乐[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/DJ音乐.js"},
-{"key":"drpy_js_啦啦DJ","name":"音频 | 啦啦DJ[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/啦啦DJ.js"},
-{"key":"drpy_js_清风DJ","name":"音频 | 清风DJ[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/清风DJ.js"},
-{"key":"drpy_js_广播迷FM","name":"广播 | 广播迷FM[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/广播迷FM.js"},
-{"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/蜻蜓FM.js"},
-{"key":"drpy_js_i275听书","name":"听书 | i275听书[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/i275听书.js"},
-{"key":"drpy_js_爱上你听书网","name":"听书 | 爱上你听书[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/爱上你听书网.js"},
-{"key":"drpy_js_博看听书","name":"听书 | 博看听书[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/博看听书.js"},
-{"key":"drpy_js_海洋听书","name":"听书 | 海洋听书[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/海洋听书.js"},
-{"key":"drpy_js_六月听书","name":"听书 | 六月听书[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/六月听书.js"},
-{"key":"drpy_js_有声小说","name":"听书 | 有声小说[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/有声小说吧.js"},
-{"key":"drpy_js_播客","name":"聚合 | 播客[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/播客.js"},
-{"key":"drpy_js_短视频","name":"聚合 | 短视频[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/短视频.js"},
-{"key":"drpy_js_酷6网","name":"聚合 | 酷6网[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/酷6网.js"},
-{"key":"drpy_js_网易公版影像","name":"聚合 | 网易公版[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/网易公版影像.js"},
-
-
-//无忧本地包
-       {
-            "key": "无忧本地更新",
-            "name": "📂无忧本地包┃更新",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "https://www.now61.cn/f/0lvJUV/bdgx.txt"
-        },
         {
             "key": "豆瓣",
             "name": "豆瓣 • 首页",
@@ -883,7 +834,7 @@
             "name": "剧圈 • 影视",
             "type": 3,
             "api": "csp_XYQHiker",
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/XYQHiker/剧圈影视.json"
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/refs/heads/main/movie/json/JQYS.json"
         },
 
         {
@@ -1010,16 +961,17 @@
             "key": "路漫漫",
             "name": "路漫漫 • 动漫",
             "type": 3,
-            "api": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/js/drpy2.min.js",
-            "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/js/路漫漫.js"
+            "api": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/refs/heads/main/js/drpy2.min.js",
+            "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/js/LMM.js"
         },
         {
             "key": "去看吧",
             "name": "去看吧 • 动漫",
             "type": 3,
-            "api": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/js/drpy2.min.js",
-            "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/js/去看吧.js"
+            "api": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/refs/heads/main/js/drpy2.min.js",
+            "ext": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/js/QKB.js"
         },
+
 
 
         {
@@ -1437,7 +1389,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/py/爱听音乐.py"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/refs/heads/main/other/py/爱听音乐.py"
         },
 
         {
@@ -1547,7 +1499,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/json/少儿教育.json",
+                "json": "https://gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/refs/heads/main/education/json/SEJY.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1564,7 +1516,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/json/小学课堂.json",
+                "json": "https://gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/refs/heads/main/education/json/XXKT.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1581,7 +1533,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/json/初中课堂.json",
+                "json": "https://gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/refs/heads/main/education/json/CZKT.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1598,7 +1550,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/json/高中课堂.json",
+                "json": "https://gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/refs/heads/main/education/json/GZKT.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1606,6 +1558,7 @@
                 "ratio": 1.618
             }
         },
+
         {
             "key": "急救教学",
             "name": "急救 • 教学",
@@ -1654,49 +1607,6 @@
         }
     ],
     "lives": [
-//裤佬
-{"name":"裤佬","type": 0,"url": "https://live.445569.xyz/live.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-
-//5.Guovin 
-//参考项目地址:https://github.com/Guovin/iptv-api
-{"name":"Guowin txt ","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"Guowin m3u  ","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"Guowin txt 备用","type": 0,"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"Guowin m3u  备用","type": 0,"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"Guowin txt jsdelivr ","type": 0,"url": "https://cdn.jsdelivr.net/gh/mytv-android/iptv-api@master/output/result.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"Guowin m3u jsdelivr ","type": 0,"url": "https://cdn.jsdelivr.net/gh/mytv-android/iptv-api@master/output/result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-
-//4.kakaxi质量很好
-//项目地址:https://github.com/kakaxi-1/IPTV
-//官网:https://live.kakaxi-1.ink/
-//有"epg"和LOGO
-{"name":"kakaxiipv4 2小时","type": 0,"url": "http://kakaxi.indevs.in/ipv4.txt","epg": "https://live.kakaxi-1.ink/epg.xml/?ch={name}&date={date}","logo": "https://live.kakaxi-1.ink/LOGO/{name}.png"},
-{"name":"kakaxiipv4  4小时","type": 0,"url": "http://kakaxi.indevs.in/iptv.txt","epg": "https://live.kakaxi-1.ink/epg.xml/?ch={name}&date={date}","logo": "https://live.kakaxi-1.ink/LOGO/{name}.png"},
-
-//8.vbskycn著名项目有直播APP
-//项目地址:https://github.com/vbskycn/iptv
-//官网:https://live.zbds.top/
-//有"epg" 注明轻量使用
-{"name":"vbskycnipv4txt","type": 0,"url": "https://live.zbds.top/tv/iptv4.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"vbskycnipv4m3u","type": 0,"url": "https://live.zbds.top/tv/iptv4.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-
-//qingtingjjjjjjj
-{"name":"qingtingmy","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"qingtingmyq","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/myq.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"qingtingmy备用","type": 0,"url": "https://gh.xxooo.cf///https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"qingtingmyq备用","type": 0,"url": "https://gh.xxooo.cf///https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/myq.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"qingtingmy jsdelivr ","type": 0,"url": "https://cdn.jsdelivr.net/gh/mytv-android/iptv-api@master/output/result.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"qingtingmyq  jsdelivr ","type": 0,"url": "https://cdn.jsdelivr.net/gh/mytv-android/iptv-api@master/output/result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-
-//maflya
-{"name":"maflya","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"maflya备用","type": 0,"url": "https://gh.xxooo.cf///https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"maflya jsdelivr ","type": 0,"url": "https://cdn.jsdelivr.net/gh/mytv-android/iptv-api@master/output/result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-
-//咪咕
-{"name":"咪咕","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/ioptu/migu_video/refs/heads/main/migu.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"咪咕备用","type": 0,"url": "https://gh.xxooo.cf///https://raw.githubusercontent.com/ioptu/migu_video/refs/heads/main/migu.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"咪咕jsdelivr ","type": 0,"url": "https://cdn.jsdelivr.net/gh/mytv-android/iptv-api@master/output/result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"}
 
     ],
     "parses": [
