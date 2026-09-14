@@ -1,9 +1,6 @@
 {
   "spider": "https://gh-proxy.org/https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
   "lives": [
-//裤佬
-{"name":"裤佬","type": 0,"url": "https://live.445569.xyz/live.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-
 //5.Guovin 
 //参考项目地址:https://github.com/Guovin/iptv-api
 {"name":"Guowin txt ","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
@@ -12,6 +9,10 @@
 {"name":"Guowin m3u  备用","type": 0,"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 {"name":"Guowin txt jsdelivr ","type": 0,"url": "https://cdn.jsdelivr.net/gh/mytv-android/iptv-api@master/output/result.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 {"name":"Guowin m3u jsdelivr ","type": 0,"url": "https://cdn.jsdelivr.net/gh/mytv-android/iptv-api@master/output/result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+
+//裤佬
+{"name":"裤佬","type": 0,"url": "https://iptv.445569.xyz/live.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+
 
 //4.kakaxi质量很好
 //项目地址:https://github.com/kakaxi-1/IPTV

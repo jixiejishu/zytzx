@@ -1,7 +1,4 @@
 
-#裤佬
-https://live.445569.xyz/live.m3u
-
 
 
 #Guowin txt 
@@ -16,6 +13,11 @@ https://gh.xxooo.cf/https://raw.githubusercontent.com/mytv-android/iptv-api/refs
 https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt
 #Guowin m3u jsdelivr 
 https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
+
+
+#裤佬
+https://iptv.445569.xyz/live.m3u
+
 
 
 
@@ -65,3 +67,5 @@ https://gh-proxy.org/https://raw.githubusercontent.com/ioptu/migu_video/refs/hea
 https://gh.xxooo.cf///https://raw.githubusercontent.com/ioptu/migu_video/refs/heads/main/migu.m3u
 #咪咕jsdelivr 
 https://cdn.jsdelivr.net/gh/ioptu/migu_video@main/migu.m3u
+
+
